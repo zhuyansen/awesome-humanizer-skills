@@ -453,7 +453,7 @@
   {
    "repo_full_name": "tbhb/vale-ai-tells",
    "path": null,
-   "stars": 114,
+   "stars": 115,
    "description": "In today's rapidly evolving landscape, vale-ai-tells is a comprehensive, cutting-edge Vale style package that empowers writers to seamlessly delve into the rich tapestry of AI tells. It's not just a rule set; it's a game-changer that supercharges your prose, unlocks new possibilities, and really lands. Ship cleaner prose. Full stop. 🚀",
    "kind": "detector",
    "security_grade": "safe",
@@ -853,7 +853,7 @@
   {
    "repo_full_name": "Leonxlnx/taste-skill",
    "path": null,
-   "stars": 92256,
+   "stars": 92261,
    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
    "kind": "design",
    "security_grade": "safe",
@@ -863,7 +863,7 @@
   {
    "repo_full_name": "Nutlope/hallmark",
    "path": null,
-   "stars": 29452,
+   "stars": 29455,
    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
    "kind": "design",
    "security_grade": "safe",
@@ -873,7 +873,7 @@
   {
    "repo_full_name": "yetone/kill-ai-slop",
    "path": null,
-   "stars": 1309,
+   "stars": 1310,
    "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
    "kind": "design",
    "security_grade": "safe",
