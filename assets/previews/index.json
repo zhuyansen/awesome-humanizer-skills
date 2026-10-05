@@ -1,1 +1,12 @@
-{}
+{
+ "sva-admin/sv-academy-prom-design": {
+  "repo": "sva-admin/sv-academy-prom-design",
+  "url": "https://raw.githubusercontent.com/sva-admin/sv-academy-prom-design/HEAD/demo/without-skill.png",
+  "alt": "",
+  "score": -0.1,
+  "type": "image/png",
+  "bytes": 315912,
+  "file": "sva-admin__sv-academy-prom-design.jpg",
+  "still": "sva-admin__sv-academy-prom-design.jpg"
+ }
+}

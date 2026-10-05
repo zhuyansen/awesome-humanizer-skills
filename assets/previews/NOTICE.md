@@ -6,3 +6,4 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `sva-admin__sv-academy-prom-design.jpg` | [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design) | MIT | [source](https://raw.githubusercontent.com/sva-admin/sv-academy-prom-design/HEAD/demo/without-skill.png) |
