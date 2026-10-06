@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05",
+ "generated": "2026-10-06",
  "source": "https://agentskillshub.top/best/anti-slop/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "blader/humanizer",
    "path": null,
-   "stars": 54123,
+   "stars": 54326,
    "description": "Agent skill that removes signs of AI-generated writing from text",
    "kind": "writing",
    "security_grade": "safe",
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "lynote-ai/humanize-text",
    "path": null,
-   "stars": 3202,
+   "stars": 3204,
    "description": "Open-source text humanization pipeline with every intermediate step published. Two LLM rewrites at temp 1.3, then two hops across different NMT engines. Four documented methodologies you can read, modify, and run locally.",
    "kind": "writing",
    "security_grade": "safe",
@@ -63,7 +63,7 @@
   {
    "repo_full_name": "Nanako0129/sepia",
    "path": null,
-   "stars": 2982,
+   "stars": 2999,
    "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
    "kind": "writing",
    "security_grade": "safe",
@@ -73,7 +73,7 @@
   {
    "repo_full_name": "iniwap/AIWriteX",
    "path": null,
-   "stars": 2048,
+   "stars": 2049,
    "description": "AIWriteX - 微信公众号全自动AI工具：全网热搜舆情聚合+趋势分析+爆款选题+文章采集+一键生成排版发布 | AI自动配图 | 去AI味、过朱雀检测 | 支持小红书/百家号/头条等多平台 | 洗稿润色支持多账号 | 专家赛道 | 小绿书贴图 | 短视频文案 | 手机控制 | 小说连载 | 爆文10w+神器",
    "kind": "writing",
    "security_grade": "safe",
@@ -93,17 +93,17 @@
   {
    "repo_full_name": "DadaNanjesha/AI-Text-Humanizer-App",
    "path": null,
-   "stars": 435,
+   "stars": 434,
    "description": "Transform AI-generated text into formal, human-like, and academic writing with ease, avoids AI detector! ",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
    "repo_full_name": "devswha/patina",
    "path": null,
-   "stars": 363,
+   "stars": 364,
    "description": "AI-writing humanizer for KO/EN/ZH/JA",
    "kind": "writing",
    "security_grade": "safe",
@@ -113,7 +113,7 @@
   {
    "repo_full_name": "NulightJens/humanizer-stack",
    "path": null,
-   "stars": 320,
+   "stars": 323,
    "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
    "kind": "writing",
    "security_grade": "safe",
@@ -123,7 +123,7 @@
   {
    "repo_full_name": "rudra496/StealthHumanizer",
    "path": null,
-   "stars": 156,
+   "stars": 158,
    "description": "🔓 Free open-source AI text humanizer — bypass GPTZero, Turnitin & AI detectors with 16+ Languages support. 35 providers, 4 rewrite levels, 6 Writing Styles, 9 Text Purposes, 13 Tone Presets, multi-pass ninja mode. No login. Built for students & writers.",
    "kind": "writing",
    "security_grade": "safe",
@@ -143,7 +143,7 @@
   {
    "repo_full_name": "sergebulaev/x-skills",
    "path": null,
-   "stars": 117,
+   "stars": 118,
    "description": "X (Twitter) marketing skills for Claude Code and Codex: write tweets, threads, and replies in your voice, strip AI tells, and publish via Publora. Open source, MIT. Content engineering by Creative Content Crafts.",
    "kind": "writing",
    "security_grade": "safe",
@@ -156,7 +156,7 @@
    "stars": 106,
    "description": "Anti-slop skills for AI agents: slopbeth cleans the shipped writing, slopgent cleans the conversation.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -166,7 +166,7 @@
    "stars": 95,
    "description": "Skill para Claude Code que remove marcas típicas de textos gerados por IA, deixando a escrita mais natural, clara e próxima da linguagem humana.  A skill analisa padrões comuns de escrita de modelos de linguagem e reescreve o texto para eliminar sinais artificiais, melhorar fluidez e aumentar naturalidade.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -176,7 +176,7 @@
    "stars": 83,
    "description": "Transform AI-generated text into natural human-like content. 100% offline · 25 languages · Zero dependencies · PHANTOM™ · ASH™ · Python/PHP/TypeScript",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "NOASSERTION"
   },
@@ -196,7 +196,7 @@
    "stars": 74,
    "description": "English text humanizer for Claude: typography, vocabulary, structure. Calibrates to your voice. Built on the UMD / Google DeepMind study and Wikipedia's Signs of AI writing",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -206,7 +206,7 @@
    "stars": 72,
    "description": "coding agent 行为插件仓库：humanize 注入「说人话」写作规则，skill-stats 统计技能触发与来源。",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -216,7 +216,7 @@
    "stars": 64,
    "description": "A sophisticated system for transforming AI-generated text into natural, human-like content using advanced NLP techniques and mathematical models.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -226,7 +226,7 @@
    "stars": 60,
    "description": "COLING'24 Humanizing Machine-Generated Content: Evading AI-Text Detection through Adversarial Attack",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
   },
@@ -236,27 +236,27 @@
    "stars": 54,
    "description": "Rewrite AI-generated text to sound human. 3-pass editing system with 36+ banned words, 10 structural patterns, and a quality checklist. Works with any LLM — Claude, ChatGPT, Gemini, Cursor, Windsurf. Also available as a Claude Code plugin.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
   {
    "repo_full_name": "chengez/Adversarial-Paraphrasing",
    "path": null,
-   "stars": 51,
+   "stars": 52,
    "description": "[NeurIPS 2025] Implementation for paper \"Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text\"",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
   },
   {
    "repo_full_name": "ZAYUVALYA/AI-Text-Humanizer",
    "path": null,
-   "stars": 50,
+   "stars": 51,
    "description": "ZAYUVALYA - AI Humanizer is a developing tool designed to rephrase AI-generated text to make it more natural and reduce detection by AI content detectors. Currently in its early stages, the project focuses on context-aware paraphrasing and aims to improve with further optimizations.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": null
   },
@@ -264,7 +264,7 @@
    "repo_full_name": "thevseprod/humanizer-ru",
    "path": null,
    "stars": 42,
-   "description": "Make AI text sound human - rules + a Claude Code skill, built for Russian, works for English too.",
+   "description": "Очеловечить текст нейросети: убирает длинное тире, канцелярит и штампы ChatGPT, не трогая факты. Правила для любой нейросети + скилл для Claude Code, Cursor, Codex. · Make AI text sound human: Russian + English rules and a Claude Code skill.",
    "kind": "writing",
    "security_grade": "safe",
    "language": "Python",
@@ -276,7 +276,7 @@
    "stars": 37,
    "description": "A Gemini CLI skill to make text more genuine, natural, and free of AI tropes.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": null
   },
@@ -286,9 +286,19 @@
    "stars": 31,
    "description": "this is the text-rewriter-python repository, an open-source project that provides a python script to \"humanize\" ai-generated text. the script makes text more natural and readable by performing operations such as sentence and word-level processing, part-of-speech tagging, synonym replacement, symbol preservation, and formatting improvements.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "NOASSERTION"
+  },
+  {
+   "repo_full_name": "sgaofen/humanizer-local-model",
+   "path": null,
+   "stars": 31,
+   "description": "A local model that humanize AI text and help you bypass every AI detector",
+   "kind": "writing",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "Apache-2.0"
   },
   {
    "repo_full_name": "bejek/humanizer-czech",
@@ -296,7 +306,7 @@
    "stars": 24,
    "description": "Czech AI text humanizer (český humanizér AI textu). Detects and rewrites 27 AI writing patterns specific to Czech language. Dual-pass system: rewrite + self-check. 4 output styles. Works with Claude Code, ChatGPT, Gemini & any LLM.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -306,7 +316,7 @@
    "stars": 21,
    "description": "A universal AI writing skill that turns generic drafts into specific, truthful, voice-consistent prose.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -316,7 +326,7 @@
    "stars": 17,
    "description": "中英文自然写作与去 AI 味 Skill：支持事实保护、文风校准、场景路由和可审查提示词。",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -336,7 +346,7 @@
    "stars": 14,
    "description": "AI 티 나는 한국어를 사람 말처럼, 맥락에 맞게 고치는 Codex·Claude Code 스킬",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -356,7 +366,7 @@
    "stars": 13,
    "description": "Make the AI writing sound more humane",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -366,7 +376,7 @@
    "stars": 12,
    "description": "A public writing skill for removing common AI patterns from prose.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -396,7 +406,7 @@
    "stars": 9,
    "description": "去除AI生成文本的AI味，支持4种风格(专业商务/技术科普/亲和对话/学术研究)",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Shell",
    "license": "MIT"
   },
@@ -406,7 +416,7 @@
    "stars": 9,
    "description": "降AI率改写Skill，包括知网、维普、Turnitin等AI检测平台。支持中英文，不引入错误、口语或过于复杂的语言，保持可读性和学术规范。官网地址为https://ushallpass.ai/",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -416,7 +426,7 @@
    "stars": 9,
    "description": "AI text humanizer skills for Arabic (MSA, Egyptian, Levantine) and Hebrew — zero AI tells",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -426,7 +436,7 @@
    "stars": 9,
    "description": "AI Humanizer is a free, open-source tool that rewrites AI-generated text to sound more natural, fluent, and human.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -456,7 +466,7 @@
    "stars": 8,
    "description": "An Agent Skill that makes LLM-written Korean sound natural to Korean readers while preserving facts, numbers, and domain-specific terminology.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -476,7 +486,7 @@
    "stars": 8,
    "description": "Claude skill that removes AI writing patterns from Swedish professional text. Covers 16 pattern types including significance inflation, nominalization overuse, passive voice as false formality, anglification, and bullet/emoji formatting. Tuned for Nordic professional voice.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": null
   },
@@ -486,7 +496,7 @@
    "stars": 8,
    "description": "Dwujęzyczny (PL+EN) humanizer / de-slop skill dla Claude Code. Fork blader/humanizer + warstwa polskiej naturalności + eksperyment: czy Bielik (polski LLM) jest dobrym recenzentem polszczyzny.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "NOASSERTION"
   },
@@ -496,7 +506,7 @@
    "stars": 7,
    "description": "Claude Code plugins from Floka AS — Norwegian-flavored AI tooling: humanizer (AI-writing scrub + Norwegian patterns), board (build a personal advisory board), translate-to-no (English → idiomatic Norwegian), forge (our personal coding harness for contracts and automated development)",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -516,7 +526,7 @@
    "stars": 7,
    "description": "Agent-agnostic skill for writing natural, humanized, SEO-focused articles and blog content without robotic AI patterns.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -526,7 +536,7 @@
    "stars": 7,
    "description": "Free Claude Code skill to humanize AI-generated text. Bypass GPTZero, Turnitin, and other AI detectors. Powered by DiaIQ.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -536,7 +546,7 @@
    "stars": 7,
    "description": "Write like some of the best writers of our time. This skill goes beyond removing AI patterns from writing and writes like an actual human",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": null
   },
@@ -546,7 +556,7 @@
    "stars": 5,
    "description": "A Python package for humanizing AI-generated or robotic text using techniques like DIPPER, HMGC, and ADAT.",
    "kind": "writing",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": "MIT"
   },
@@ -603,7 +613,7 @@
   {
    "repo_full_name": "epoko77-ai/im-not-ai",
    "path": null,
-   "stars": 5851,
+   "stars": 5869,
    "description": "AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells",
    "kind": "detector",
    "security_grade": "safe",
@@ -613,7 +623,7 @@
   {
    "repo_full_name": "dmmulroy/anti-slop",
    "path": null,
-   "stars": 5184,
+   "stars": 5211,
    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
    "kind": "detector",
    "security_grade": "safe",
@@ -623,7 +633,7 @@
   {
    "repo_full_name": "conorbronsdon/avoid-ai-writing",
    "path": null,
-   "stars": 4867,
+   "stars": 4880,
    "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
    "kind": "detector",
    "security_grade": "safe",
@@ -633,7 +643,7 @@
   {
    "repo_full_name": "Jakeschincariol/linkedin-agent-skill",
    "path": null,
-   "stars": 1289,
+   "stars": 1371,
    "description": "Eleven free Claude skills that run a LinkedIn account: posts off 21 hook formulas, comments, replies, profile score, weekly plan, and a humanizer that strips the AI fingerprint and scores the draft before it goes out.",
    "kind": "detector",
    "security_grade": "safe",
@@ -643,17 +653,17 @@
   {
    "repo_full_name": "peakoss/anti-slop",
    "path": null,
-   "stars": 838,
+   "stars": 839,
    "description": "A GitHub action that detects and automatically closes low-quality and AI slop PRs.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "AGPL-3.0"
   },
   {
    "repo_full_name": "theclaymethod/unslop",
    "path": null,
-   "stars": 505,
+   "stars": 508,
    "description": "An agent skill to de-AI your writing",
    "kind": "detector",
    "security_grade": "safe",
@@ -663,7 +673,7 @@
   {
    "repo_full_name": "ilyautov/humanizer-ru",
    "path": null,
-   "stars": 411,
+   "stars": 415,
    "description": "humanizer-ru: редактура русского текста для AI-агентов. Убирает канцелярит и шаблонные обороты, сверяет смысл и факты. 67 признаков, 21 жёсткий запрет, сканер, CLI, MCP и расширение Chrome. | Russian text editing for AI agents: removes bureaucratese and template phrasing, checks facts.",
    "kind": "detector",
    "security_grade": "safe",
@@ -683,7 +693,7 @@
   {
    "repo_full_name": "talkstream/ru-text",
    "path": null,
-   "stars": 247,
+   "stars": 249,
    "description": "Russian text quality for AI agents — neuroslop cleanup, typography, information style, editorial standards, UX writing, business correspondence. Scores text 0–10. 2,000+ linguistic atoms.",
    "kind": "detector",
    "security_grade": "safe",
@@ -696,7 +706,7 @@
    "stars": 241,
    "description": "Free AI Humanizer: Humanize AI Text Online",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -723,7 +733,7 @@
   {
    "repo_full_name": "marmbiz/humanizer-de",
    "path": null,
-   "stars": 170,
+   "stars": 171,
    "description": "Deutscher Text-Humanizer für Claude Code & Codex. Redigiert KI-Floskeln, schützt deine Schreibstimme und prüft 72 deutsche Muster quellentreu.",
    "kind": "detector",
    "security_grade": "safe",
@@ -733,7 +743,7 @@
   {
    "repo_full_name": "eric-tramel/slop-guard",
    "path": null,
-   "stars": 163,
+   "stars": 164,
    "description": "Slop Scoring to Stop Slop",
    "kind": "detector",
    "security_grade": "safe",
@@ -743,7 +753,7 @@
   {
    "repo_full_name": "Heyosseus/sloppy",
    "path": null,
-   "stars": 147,
+   "stars": 150,
    "description": "Static analysis for the debt AI agents leave in PHP: 26 rules, Claude Code hooks, git-diff review, a Rector and Pint fix pass, Pest expectations, CI annotations and an MCP server. Deterministic, local, no LLM.",
    "kind": "detector",
    "security_grade": "safe",
@@ -771,23 +781,23 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Vladimir-Human/humanizer-ru",
+   "path": null,
+   "stars": 127,
+   "description": "Проверяемая гигиена вставки из чата для русского текста",
+   "kind": "detector",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "brandonwise/humanizer",
    "path": null,
    "stars": 127,
    "description": "OpenClaw skill that detects and removes signs of AI-generated writing, making text sound natural and human. Based on Wikipedia's Signs of AI Writing.",
    "kind": "detector",
-   "security_grade": "unknown",
-   "language": "JavaScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "Vladimir-Human/humanizer-ru",
-   "path": null,
-   "stars": 126,
-   "description": "Проверяемая гигиена вставки из чата для русского текста",
-   "kind": "detector",
    "security_grade": "safe",
-   "language": "Python",
+   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -796,7 +806,7 @@
    "stars": 123,
    "description": "中英文学术文本润色与人性化skill，用于去除 AI 生成的痕迹，同时严格保持事实准确性。",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -808,6 +818,16 @@
    "kind": "detector",
    "security_grade": "safe",
    "language": "Shell",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "qin1473692580-ux/oh-story-claudecode",
+   "path": null,
+   "stars": 100,
+   "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
+   "kind": "detector",
+   "security_grade": "safe",
+   "language": "Python",
    "license": "MIT"
   },
   {
@@ -826,17 +846,7 @@
    "stars": 98,
    "description": " Stop shipping AI slop. Detects empty functions, fake documentation, and inflated comments in AI-generated code. Production-ready.",
    "kind": "detector",
-   "security_grade": "unknown",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "qin1473692580-ux/oh-story-claudecode",
-   "path": null,
-   "stars": 97,
-   "description": "网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程",
-   "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -846,7 +856,7 @@
    "stars": 95,
    "description": "Detect AI-generated text locally in your browser",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "Apache-2.0"
   },
@@ -863,10 +873,10 @@
   {
    "repo_full_name": "DadaNanjesha/AI-content-detector-Humanizer",
    "path": null,
-   "stars": 92,
+   "stars": 91,
    "description": "A comprehensive web application that detects AI-generated content in PDF documents and transforms AI text into natural human-like writing. Built with Streamlit, spaCy, and Hugging Face transformers.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -876,7 +886,7 @@
    "stars": 91,
    "description": "Python AI Slop Detector - Find over-engineering, hallucinations, and dead code in Python codebases",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -891,23 +901,33 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Text2Go/ai-humanizer-mcp-server",
+   "path": null,
+   "stars": 61,
+   "description": "A powerful Model Context Protocol (MCP) server that helps refine AI-generated content to sound more natural and human-like. Built with advanced AI detection and text enhancement capabilities.",
+   "kind": "detector",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "gouwsxander/slop-detector",
    "path": null,
    "stars": 61,
    "description": "End-to-end implementation of an AI writing detector",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
-   "repo_full_name": "Text2Go/ai-humanizer-mcp-server",
+   "repo_full_name": "millionco/deslop-js",
    "path": null,
    "stars": 60,
-   "description": "A powerful Model Context Protocol (MCP) server that helps refine AI-generated content to sound more natural and human-like. Built with advanced AI detection and text enhancement capabilities.",
+   "description": "Deslop JavaScript code",
    "kind": "detector",
-   "security_grade": "unknown",
-   "language": "JavaScript",
+   "security_grade": "safe",
+   "language": "TypeScript",
    "license": "MIT"
   },
   {
@@ -916,19 +936,9 @@
    "stars": 59,
    "description": "Find and repair substance defects in AI-assisted prose, code, docs, and agent output. Reports defects, never authorship. Structural tests over model judgement, because LLM judges agree with human slop labels at chance.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
-  },
-  {
-   "repo_full_name": "millionco/deslop-js",
-   "path": null,
-   "stars": 59,
-   "description": "Deslop JavaScript code",
-   "kind": "detector",
-   "security_grade": "unknown",
-   "language": "TypeScript",
-   "license": "MIT"
   },
   {
    "repo_full_name": "ilien-dev/quiron",
@@ -946,7 +956,7 @@
    "stars": 55,
    "description": null,
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Rust",
    "license": "MIT"
   },
@@ -961,12 +971,22 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "pablocaeg/sloptotal",
+   "path": null,
+   "stars": 51,
+   "description": "Open-source AI text detector and ChatGPT detector: 23 engines, one calibrated score, every number measured on a public benchmark. Self-hosted, runs on CPU.",
+   "kind": "detector",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "stephenlzc/humanize-mba-text-skill",
    "path": null,
-   "stars": 50,
+   "stars": 51,
    "description": "去除中文MBA论文AI写作痕迹的检测与改写工具 | AI writing pattern detection and removal tool for Chinese MBA thesis",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -981,22 +1001,12 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "pablocaeg/sloptotal",
-   "path": null,
-   "stars": 49,
-   "description": "Open-source AI text detector and ChatGPT detector: 23 engines, one calibrated score, every number measured on a public benchmark. Self-hosted, runs on CPU.",
-   "kind": "detector",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "mmartoccia/grain",
    "path": null,
    "stars": 34,
    "description": "Anti-slop linter for AI-assisted codebases",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -1016,7 +1026,7 @@
    "stars": 25,
    "description": "Anti-slop linter: catches comments that narrate change history instead of a current constraint (Python/JS/TS/Terraform)",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Rust",
    "license": "MIT"
   },
@@ -1036,7 +1046,7 @@
    "stars": 24,
    "description": "By slop for slop, to remove slop in an AI slop world.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1046,17 +1056,17 @@
    "stars": 24,
    "description": "CLI to detect and remove AI-slop words and em dashes",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "NOASSERTION"
   },
   {
    "repo_full_name": "momo2young/humanize-academic-writing",
    "path": null,
-   "stars": 21,
+   "stars": 22,
    "description": "An AI skill (Cursor/ Claude) for transforming AI-generated academic text into natural, human-like scholarly writing/ 一个专为社科学者设计的 Cursor AI Skills (Claude可用)，帮助将 AI 生成的英文学术文本转化为自然、人性化的学术写作。",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1086,7 +1096,7 @@
    "stars": 18,
    "description": "Claude skill that removes 30 tell-tale signs of AI-written text",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1096,7 +1106,7 @@
    "stars": 18,
    "description": "Detect and remove AI-generated code patterns (slop) from your branches",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": null
   },
@@ -1106,7 +1116,7 @@
    "stars": 18,
    "description": "公众号、博客、技术等文章一键去AI味道，一键蒸馏自己的写作风格，已融合目前主流的写作skills",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -1116,18 +1126,8 @@
    "stars": 17,
    "description": "Русский Humanizer: Agent Skill и линтер читаемости для LLM-агентов",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "huangziyuan-general/dsh-novel-forge",
-   "path": null,
-   "stars": 16,
-   "description": "DSH 小说锻炉：把 AI 长篇写作通病变成代码强制的硬约束（事实账本/上下文包/阶段门禁/零费用去AI味扫描/确定性审计/提案制修订）。Novel-writing guardrails plugin for DeepSeek Harness (DSH).",
-   "kind": "detector",
-   "security_grade": "unknown",
-   "language": "JavaScript",
    "license": "MIT"
   },
   {
@@ -1136,9 +1136,19 @@
    "stars": 16,
    "description": "A blazing-fast, multi-language linter for detecting AI-generated code slop",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": null
+  },
+  {
+   "repo_full_name": "huangziyuan-general/dsh-novel-forge",
+   "path": null,
+   "stars": 15,
+   "description": "DSH 小说锻炉：把 AI 长篇写作通病变成代码强制的硬约束（事实账本/上下文包/阶段门禁/零费用去AI味扫描/确定性审计/提案制修订）。Novel-writing guardrails plugin for DeepSeek Harness (DSH).",
+   "kind": "detector",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "beavis07/slop-detector",
@@ -1146,7 +1156,7 @@
    "stars": 12,
    "description": "AI Slop to detect AI Slop",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -1156,7 +1166,7 @@
    "stars": 12,
    "description": "Stop AI slop before it hits your codebase",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Go",
    "license": "Apache-2.0"
   },
@@ -1176,7 +1186,7 @@
    "stars": 12,
    "description": "Anti-AI-slop code analysis — detects machine-generated code patterns across Rust, TS/JS, Python, HTML/CSS",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1186,7 +1196,7 @@
    "stars": 11,
    "description": "🚫 Spot AI-generated YouTube scripts and content farms in real-time. Open-source browser extension for Chrome & Firefox with thumbnail badges and sentence heatmaps.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": null
   },
@@ -1196,7 +1206,7 @@
    "stars": 11,
    "description": "anti-slop code reviewer",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1206,7 +1216,7 @@
    "stars": 11,
    "description": "A deterministic Python linter that catches AI coding agents silencing type checkers without adding evidence.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1216,7 +1226,7 @@
    "stars": 11,
    "description": "Fast Python linter for catching LLM-generated anti-patterns. Written in Rust, built on tree-sitter.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Rust",
    "license": "MIT"
   },
@@ -1266,7 +1276,7 @@
    "stars": 8,
    "description": "Humanizer is an AI writing skill that detects and rewrites common signs of AI-generated prose. It helps agents preserve meaning, match audience and tone, reduce hype and filler, and produce writing that sounds natural, specific, and human across drafts, posts, docs, and messages.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -1276,7 +1286,7 @@
    "stars": 8,
    "description": "Production-grade, anti-slop AI writing suite for agent harnesses with voice calibration, craft rules, de-slop editor, and deterministic AST linting",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -1306,7 +1316,7 @@
    "stars": 8,
    "description": null,
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "caution",
    "language": "Python",
    "license": "MIT"
   },
@@ -1316,7 +1326,7 @@
    "stars": 7,
    "description": "Opinionated Biome GritQL rules for rejecting low-evidence TypeScript patterns",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1346,7 +1356,7 @@
    "stars": 6,
    "description": "Three small, independent guardrails for AI coding agents: an anti-AI-slop writing checklist, a code-comment hygiene checklist, and a standing multi-agent orchestration recipe hook.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Shell",
    "license": "MIT"
   },
@@ -1356,7 +1366,7 @@
    "stars": 6,
    "description": "Measure and stop structural erosion in AI-written TypeScript. Slop Check finds the mess, the Deslop tools clean it. Based on SlopCodeBench (arXiv:2603.24755).",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1371,12 +1381,22 @@
    "license": null
   },
   {
+   "repo_full_name": "infoslack/anti-slop-py",
+   "path": null,
+   "stars": 5,
+   "description": "Opinionated lint rules for rejecting low-evidence Python patterns",
+   "kind": "detector",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "liuxiaobai8868/ai-slop-detector",
    "path": null,
    "stars": 5,
    "description": "多语言 AI 味检测与去 AI 化工具集 · Multilingual AI-slop detector & de-slopping toolkit (zh/en/es/ar/hi)",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -1386,14 +1406,14 @@
    "stars": 5,
    "description": "CLI tool to detect AI-generated text patterns and improve writing to avoid detection. Score, analyze, and humanize content.",
    "kind": "detector",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": null
   },
   {
    "repo_full_name": "op7418/Humanizer-zh",
    "path": null,
-   "stars": 18955,
+   "stars": 18991,
    "description": "Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。",
    "kind": "chinese",
    "security_grade": "safe",
@@ -1403,17 +1423,17 @@
   {
    "repo_full_name": "larashero3-dotcom/lieflat-less-ai-tone",
    "path": null,
-   "stars": 2309,
+   "stars": 2329,
    "description": "一个基于 283 万字语料统计的去 AI 味 skill · An AI-tone removal skill grounded in a 2.83-million-character corpus study",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
   {
    "repo_full_name": "MrGeDiao/shuorenhua",
    "path": null,
-   "stars": 1982,
+   "stars": 1989,
    "description": "说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.",
    "kind": "chinese",
    "security_grade": "safe",
@@ -1423,7 +1443,7 @@
   {
    "repo_full_name": "Raymondhou0917/speak-human-tw",
    "path": null,
-   "stars": 1027,
+   "stars": 1028,
    "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
    "kind": "chinese",
    "security_grade": "safe",
@@ -1433,17 +1453,17 @@
   {
    "repo_full_name": "OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL",
    "path": null,
-   "stars": 849,
+   "stars": 851,
    "description": "去AI味提示词-作家增强-SKILL",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": null
   },
   {
    "repo_full_name": "LifelongLazyLearner/qu-ai-wei",
    "path": null,
-   "stars": 623,
+   "stars": 625,
    "description": "去 AI 味：去除简体中文 AI 写作痕迹 / Chinese humanizer skill",
    "kind": "chinese",
    "security_grade": "safe",
@@ -1453,37 +1473,37 @@
   {
    "repo_full_name": "Liuxiangjian-ai/official-document-skill",
    "path": null,
-   "stars": 380,
+   "stars": 382,
    "description": "一个面向公文写作的skill，基于数百篇《人民日报》等报刊文章总结而来。根据文种、场景和材料，生成结构规范、表达稳妥、内容具体、去 AI 味的公文。",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
   {
    "repo_full_name": "redbaronyyyyy-eng/humanizer-zh-academic",
    "path": null,
-   "stars": 303,
+   "stars": 304,
    "description": "🎓 降低中文学术写作 AIGC 检测率的 Claude Code Skill | Reduce AIGC detection rate for Chinese academic writing",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
   {
    "repo_full_name": "ai-zixun/humanizer-zh",
    "path": null,
-   "stars": 173,
+   "stars": 174,
    "description": "`humanizer-zh` 是一个兼容 Codex、Claude Code 和 OpenClaw 的中文去 AI 味技能。它用于重写、润色或审阅中文博客、评论、产品分析、newsletter、书稿章节等长文本，让文字更像中文母语者写出来的，而不是翻译腔、模型拼接稿或营销通稿。",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
   {
    "repo_full_name": "Hyacehila/humanizer-zh-next",
    "path": null,
-   "stars": 166,
+   "stars": 168,
    "description": "去除中文文本中 AI 写作痕迹的 Agent Skill（基于 blader/humanizer 与 op7418/humanizer-zh）",
    "kind": "chinese",
    "security_grade": "safe",
@@ -1493,10 +1513,10 @@
   {
    "repo_full_name": "VincentOld/stop-slop-zh",
    "path": null,
-   "stars": 90,
+   "stars": 91,
    "description": "消除中文 AI 写作痕迹的 Claude Skill：拆排比三件套、去名词化、换抽象主语为具体细节。灵感来自 hardikpandya/stop-slop。",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1513,8 +1533,18 @@
   {
    "repo_full_name": "baibanbao/qu-ai-wei",
    "path": null,
-   "stars": 65,
+   "stars": 66,
    "description": "去 AI 味：中文写作的 AI 痕迹清理 skill。合并三家规则（含语料实测），并裁决它们互相矛盾的七处。A Claude skill for stripping AI tells from Chinese drafts.",
+   "kind": "chinese",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "cangtianhuang/humanizer-academic-zh",
+   "path": null,
+   "stars": 63,
+   "description": "Humanizer 中文学术版本，Claude Code Skills/ System Prompt，轻量级中文学术论文去 AI 痕迹提示词——运行迅速，节约 token，开箱即用！",
    "kind": "chinese",
    "security_grade": "safe",
    "language": null,
@@ -1529,16 +1559,6 @@
    "security_grade": "safe",
    "language": null,
    "license": "CC-BY-SA-4.0"
-  },
-  {
-   "repo_full_name": "cangtianhuang/humanizer-academic-zh",
-   "path": null,
-   "stars": 62,
-   "description": "Humanizer 中文学术版本，Claude Code Skills/ System Prompt，轻量级中文学术论文去 AI 痕迹提示词——运行迅速，节约 token，开箱即用！",
-   "kind": "chinese",
-   "security_grade": "safe",
-   "language": null,
-   "license": "MIT"
   },
   {
    "repo_full_name": "pencil20388-eng/stop-slop-zh",
@@ -1556,7 +1576,7 @@
    "stars": 26,
    "description": "专门针对大学生学术写作（论文、实验报告）的去 AI 味与反检测提示词指南，将浮夸的机器腔调转化为朴实严谨的学生真实笔触。An anti-AI detection and text humanizer guide tailored for students' academic writing, converting robotic tones into authentic, rigorous student styles.",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1573,10 +1593,10 @@
   {
    "repo_full_name": "mattwang1230/legal-paper-framework-humanizer-zh",
    "path": null,
-   "stars": 23,
+   "stars": 24,
    "description": "消除法学论文框架AI味：基于真实《法学》期刊目录语料的中文法学写作 Skill",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1586,7 +1606,7 @@
    "stars": 16,
    "description": "让 AI 生成的内容不再有 AI 味的 Agent Skill ，适用于直接生成和英文翻译等场景。",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Shell",
    "license": null
   },
@@ -1596,7 +1616,7 @@
    "stars": 15,
    "description": "Claude Code skill that removes signs of AI-generated writing from text",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": null
   },
@@ -1616,7 +1636,7 @@
    "stars": 9,
    "description": "Chinese fiction de-AI writing skill for AI-assisted novel creation",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1626,7 +1646,7 @@
    "stars": 9,
    "description": "可定制、可维护的 agentic 中文去 AI 味写作系统，用于写作、编辑、改写、润色和审稿。",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -1636,7 +1656,7 @@
    "stars": 8,
    "description": "面向中文网络小说的逐镜头去AI味审查与精修 Skill",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
   },
@@ -1646,7 +1666,7 @@
    "stars": 8,
    "description": "文本、论文、段落去ai味、降AI率:基于AI, 使用AI来降低论文/文本AI率, 用魔法来打败魔法",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "GPL-3.0"
   },
@@ -1666,7 +1686,7 @@
    "stars": 8,
    "description": "繁體中文（臺灣）AI 味清理 Skill：去 AI 腔、清中港用語、修簡轉繁錯字、教育部標點、七種出版語體。AI humanizer skill for Traditional Chinese (Taiwan) — Claude Code / Codex / Cursor / ChatGPT.",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1676,7 +1696,7 @@
    "stars": 7,
    "description": "中文文本去AI味增强工具。34种Pattern（29原版+5中文特有），适用于所有中文写作场景",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1706,7 +1726,7 @@
    "stars": 5,
    "description": "Mr.Li Writer is an anti-AI-tone Chinese long-form writing skill. It first evaluates whether your idea is worth writing and helps you find a distinctive angle, then designs a unique opening and title for each piece, and delivers the final draft in a concrete, opinionated, humanized voice—ready to publish across platforms.",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -1716,7 +1736,7 @@
    "stars": 5,
    "description": "人味 Renwei — 书稿级中文去 AI 味 / Book-length Chinese AI humanizer. 51 rules covering AI tells, Euro-Chinese syntax, whole-book consistency & positive prose craft. Ships a token-free lint CLI. AGENTS.md compatible.",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "NOASSERTION"
   },
@@ -1736,7 +1756,7 @@
    "stars": 5,
    "description": "Chinese LLM writing Skill for reducing predictable AI prose patterns without changing facts or author voice.",
    "kind": "chinese",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -1753,10 +1773,10 @@
   {
    "repo_full_name": "peteromallet/desloppify",
    "path": null,
-   "stars": 3161,
+   "stars": 3163,
    "description": "Agent harness to make your slop code well-engineered and beautiful.",
    "kind": "code",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "NOASSERTION"
   },
@@ -1786,7 +1806,7 @@
    "stars": 27,
    "description": "Drop-in skills that stop AI coding agents from shipping garbage — kill-slop, security-review, PR hygiene",
    "kind": "code",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Shell",
    "license": "MIT"
   },
@@ -1796,14 +1816,14 @@
    "stars": 7,
    "description": "AI slop cleanup with minimal diffs and behavior preservation",
    "kind": "code",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": null
   },
   {
    "repo_full_name": "Leonxlnx/taste-skill",
    "path": null,
-   "stars": 92764,
+   "stars": 93022,
    "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
    "kind": "design",
    "security_grade": "safe",
@@ -1813,7 +1833,7 @@
   {
    "repo_full_name": "Nutlope/hallmark",
    "path": null,
-   "stars": 29615,
+   "stars": 29684,
    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
    "kind": "design",
    "security_grade": "safe",
@@ -1823,7 +1843,7 @@
   {
    "repo_full_name": "yetone/kill-ai-slop",
    "path": null,
-   "stars": 1317,
+   "stars": 1320,
    "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
    "kind": "design",
    "security_grade": "safe",
@@ -1846,14 +1866,14 @@
    "stars": 980,
    "description": "VibeCurb - Injects taste into AI workflows to stop agents from generating boring, AI slop.",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
   {
    "repo_full_name": "joeseesun/qiaomu-design",
    "path": null,
-   "stars": 573,
+   "stars": 574,
    "description": "偏执型设计顾问：反 AI 味设计 + 风格试衣间 + 58 站设计系统库的 Claude Code Skill | Opinionated design advisor for Claude Code: anti-generic UI, style fitting room, 58 real-site design systems.",
    "kind": "design",
    "security_grade": "safe",
@@ -1873,7 +1893,7 @@
   {
    "repo_full_name": "educlopez/ui-craft",
    "path": null,
-   "stars": 367,
+   "stars": 370,
    "description": "Design engineering system for AI coding agents — ship UI with craft-level quality. Install as an agent skill.",
    "kind": "design",
    "security_grade": "safe",
@@ -1883,10 +1903,10 @@
   {
    "repo_full_name": "tasteskill/tasteskill",
    "path": null,
-   "stars": 234,
+   "stars": 237,
    "description": "The Anti-Slop Frontend Framework for AI Agents",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Shell",
    "license": "MIT"
   },
@@ -1916,7 +1936,7 @@
    "stars": 91,
    "description": "Deterministic design critique for HTML/CSS: 73 slop guards from the rules professional designers use in production-grade designs. Exact detectors, idempotent auto-fixes, the anti-slop skill, and the /gesso-critique command. By Gesso, the AI creative team for builders.",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
@@ -1933,7 +1953,7 @@
   {
    "repo_full_name": "h3nryprod01/design-taste",
    "path": null,
-   "stars": 64,
+   "stars": 65,
    "description": "Elite frontend design taste for Claude Code / Cowork — a merged synthesis of emilkowalski/skill, pbakaus/impeccable, and leonxlnx/taste-skill. Typography, color, motion, components, anti-slop.",
    "kind": "design",
    "security_grade": "safe",
@@ -1983,10 +2003,10 @@
   {
    "repo_full_name": "sva-admin/sv-academy-prom-design",
    "path": null,
-   "stars": 28,
+   "stars": 29,
    "description": "Ready-to-use design taste for Claude Code, Cowork, and Cursor. Prom = Thai for ready. Learn free at loop.sv-academy.org",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "JavaScript",
    "license": "MIT"
   },
@@ -1996,14 +2016,14 @@
    "stars": 21,
    "description": "Create high-converting, visually distinctive landing pages with Vibe Discovery process and anti-AI-slop principles",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
   {
    "repo_full_name": "nickture/skills",
    "path": null,
-   "stars": 17,
+   "stars": 18,
    "description": "Two Agent Skills that help an AI agent make an interface clear, consistent, easy to use and scalable, and Russian text clear and correct (English version planned), without the signs of AI-generated work. They work in Claude, Codex, Cursor and other compatible agents.",
    "kind": "design",
    "security_grade": "safe",
@@ -2026,7 +2046,7 @@
    "stars": 10,
    "description": "Skills for AI agents to remove or prevent slop in generated frontend UI design and written content.",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": null
   },
@@ -2036,7 +2056,7 @@
    "stars": 8,
    "description": "Taste Skill Simplified Chinese edition - anti-slop frontend design skills for AI agents",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "NOASSERTION"
   },
@@ -2046,7 +2066,7 @@
    "stars": 8,
    "description": "🎨 Create distinctive static sites with React, Tailwind, shadcn/ui — no mockups needed. Anti-AI-slop design, mobile-first patterns, single-file bundling.",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Shell",
    "license": "Apache-2.0"
   },
@@ -2056,9 +2076,19 @@
    "stars": 7,
    "description": "Stop AI slop",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "changemaner/design-taste-frontend",
+   "path": null,
+   "stars": 5,
+   "description": "Anti-slop frontend design skill (universal frontend design + deck mode) with 30 real brand material libraries, manifest-driven style selection, and QA gates",
+   "kind": "design",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
   },
   {
    "repo_full_name": "jferracini/anti-slop-os",
@@ -2066,7 +2096,7 @@
    "stars": 5,
    "description": null,
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Shell",
    "license": null
   },
@@ -2076,9 +2106,19 @@
    "stars": 5,
    "description": null,
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "HTML",
    "license": null
+  },
+  {
+   "repo_full_name": "mah-claude/anti-slop-website-prompts",
+   "path": null,
+   "stars": 5,
+   "description": "15 free art-directed website build-prompts + an anti-slop design SKILL.md for Lovable, Bolt, v0, Cursor, and Claude Code — from Meez (meez.design)",
+   "kind": "design",
+   "security_grade": "safe",
+   "language": null,
+   "license": "MIT"
   },
   {
    "repo_full_name": "rohunvora/anti-slop-library",
@@ -2086,24 +2126,24 @@
    "stars": 5,
    "description": "library of ui references that prevent ai's from creating vibecode slop",
    "kind": "design",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "TypeScript",
    "license": null
   },
   {
    "repo_full_name": "hardikpandya/stop-slop",
    "path": null,
-   "stars": 17765,
+   "stars": 17791,
    "description": "A skill file for removing AI tells from prose",
    "kind": "rules",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
   {
    "repo_full_name": "miqdadbadjuber/anti-slop",
    "path": null,
-   "stars": 4513,
+   "stars": 4581,
    "description": "Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.",
    "kind": "rules",
    "security_grade": "safe",
@@ -2113,7 +2153,7 @@
   {
    "repo_full_name": "AIScientists-Dev/academic-humanizer",
    "path": null,
-   "stars": 1782,
+   "stars": 1794,
    "description": "Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind.",
    "kind": "rules",
    "security_grade": "safe",
@@ -2123,7 +2163,7 @@
   {
    "repo_full_name": "alexgreensh/attention-span",
    "path": null,
-   "stars": 1279,
+   "stars": 1326,
    "description": "Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.",
    "kind": "rules",
    "security_grade": "safe",
@@ -2143,7 +2183,7 @@
   {
    "repo_full_name": "jalaalrd/anti-ai-slop-writing",
    "path": null,
-   "stars": 504,
+   "stars": 508,
    "description": "AI writing skill that eliminates detectable AI patterns. Works with Claude Code, Codex, Cursor, Gemini CLI, and 8+ other agents.",
    "kind": "rules",
    "security_grade": "safe",
@@ -2156,7 +2196,7 @@
    "stars": 469,
    "description": "日本語の文章からAI臭を取り除く Claude Skill",
    "kind": "rules",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -2166,7 +2206,7 @@
    "stars": 407,
    "description": "De-AI-ify scientific writing",
    "kind": "rules",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
@@ -2186,14 +2226,14 @@
    "stars": 151,
    "description": "AIくさい日本語を人間が書いた文章に変換するClaude Codeスキル。20パターンのチェックリスト+書き換えガイド。",
    "kind": "rules",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
   },
   {
    "repo_full_name": "adenaufal/anti-slop-writing",
    "path": null,
-   "stars": 143,
+   "stars": 144,
    "description": "Stop your AI from writing like AI. A universal system prompt eliminating every known LLM style tell — works with Claude Code, Gemini CLI, Codex CLI, Copilot, Cursor, and any web AI.",
    "kind": "rules",
    "security_grade": "safe",
@@ -2206,7 +2246,7 @@
    "stars": 18,
    "description": "Agent Skill for editing prose so it does not read like generic LLM output",
    "kind": "rules",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   },
@@ -2236,9 +2276,19 @@
    "stars": 10,
    "description": "Reduce the \"AI-generated\" feel in business and academic texts; applicable to both Chinese and English. 降低商务与学术文本的 AI 生成感，中英文均适用。",
    "kind": "rules",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "proffitteoy/Mathematician-Humanizer",
+   "path": null,
+   "stars": 10,
+   "description": "An evidence-based AI writing skill for clearer, more human mathematical prose, built from stylometry and reference-style analysis",
+   "kind": "rules",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
   },
   {
    "repo_full_name": "AMishradev/outbound-writing",
@@ -2266,7 +2316,7 @@
    "stars": 5,
    "description": "A Claude skill that answers exam questions exactly like a university student — concise, humanized, and always referenced to Iranian university textbooks. No extra explanation, just the right answer.",
    "kind": "rules",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": null,
    "license": null
   },
@@ -2276,7 +2326,7 @@
    "stars": 5,
    "description": null,
    "kind": "rules",
-   "security_grade": "unknown",
+   "security_grade": "safe",
    "language": "Python",
    "license": "MIT"
   }

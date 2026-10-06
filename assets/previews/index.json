@@ -1,4 +1,24 @@
 {
+ "changemaner/design-taste-frontend": {
+  "repo": "changemaner/design-taste-frontend",
+  "url": "https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png",
+  "alt": "Air slide 0",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 335983,
+  "file": "changemaner__design-taste-frontend.jpg",
+  "still": "changemaner__design-taste-frontend.jpg"
+ },
+ "sgaofen/humanizer-local-model": {
+  "repo": "sgaofen/humanizer-local-model",
+  "url": "https://raw.githubusercontent.com/sgaofen/humanizer-local-model/HEAD/assets/app-showcase-en.png",
+  "alt": "The humanizer app running the 12B model locally: draft on the left, rewrite on t",
+  "score": 1.7,
+  "type": "image/png",
+  "bytes": 621433,
+  "file": "sgaofen__humanizer-local-model.jpg",
+  "still": "sgaofen__humanizer-local-model.jpg"
+ },
  "sva-admin/sv-academy-prom-design": {
   "repo": "sva-admin/sv-academy-prom-design",
   "url": "https://raw.githubusercontent.com/sva-admin/sv-academy-prom-design/HEAD/demo/without-skill.png",
