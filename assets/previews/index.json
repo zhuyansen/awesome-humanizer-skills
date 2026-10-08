@@ -9,6 +9,16 @@
   "file": "changemaner__design-taste-frontend.jpg",
   "still": "changemaner__design-taste-frontend.jpg"
  },
+ "ilyautov/humanizer-it": {
+  "repo": "ilyautov/humanizer-it",
+  "url": "https://raw.githubusercontent.com/ilyautov/humanizer-it/HEAD/assets/social-preview.png",
+  "alt": "humanizer-it — toglie i segni dell",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 43975,
+  "file": "ilyautov__humanizer-it.jpg",
+  "still": "ilyautov__humanizer-it.jpg"
+ },
  "sgaofen/humanizer-local-model": {
   "repo": "sgaofen/humanizer-local-model",
   "url": "https://raw.githubusercontent.com/sgaofen/humanizer-local-model/HEAD/assets/app-showcase-en.png",
