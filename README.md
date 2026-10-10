@@ -6,6 +6,23 @@ Open-source **humanizer and anti-slop skills**: make AI-written text, code and U
 
 Live page with filters: **[https://agentskillshub.top/best/anti-slop/](https://agentskillshub.top/best/anti-slop/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
+## Which one to install
+
+We ran 26 of these end to end (23 gave a result). This is what we would pick; the [full test](#tested) is below.
+
+- 🥇 **For English text: [sloptrim](https://github.com/seyedehsanhadi/sloptrim)**  
+  The best-reading rewrites in the test (4.5 of 5) with every fact kept. Like the rest, it changes wording, not structure.
+- 🥈 **For Chinese text: [Humanizer-zh](https://github.com/op7418/Humanizer-zh)**  
+  3.0 of 5 with every fact kept, level with three other Chinese tools; the most used of them. None of the Chinese tools scored higher.
+- 🥉 **To check a text, not rewrite it: [humanizer-skill](https://github.com/Aboudjem/humanizer-skill)**  
+  The only detector that flags structure in earnest: 8 of its 38 flags were about stated lessons, tidy endings and the like.
+
+**Skip:** AI-Text-Humanizer-App (it prepends stock transitions and reads more like AI (1 of 5)).
+
+No tool rewrote the structure away: across 40 rewrites the stated lesson survived 26 of 26 times and the tidy ending 28 of 28. Cut the moral, leave the ending open and name specifics yourself.
+
+*Rewriters are ranked by how human the rewrite read to the judge (1-5); detectors by how many structure issues they flag.*
+
 ## What these skills do
 
 <table>
@@ -47,31 +64,31 @@ On 2026-10-07 we ran 26 of these skills and 23 ran: each rewrote the same three 
 
 **What we found:** none rewrote the structure away. Across 40 rewrites the stated lesson survived 26/26, the tidy ending 28/28, the single track 40/40; 19 of 21 changed wording, not structure. No fact was lost.
 
-| Skill | ★ | Reads human | Layer reached | AI structure removed | Facts | Detector flags | |
-|---|---|---|---|---|---|---|---|
-| [sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 212 | 4.5/5 | wording | 0 | all kept | 6 (0) | [evidence](https://agentskillshub.top/best-runs/slop/seyedehsanhadi__sloptrim.html) |
-| [slop-guard](https://github.com/eric-tramel/slop-guard) | 163 | 4.0/5 | wording | 0 | all kept | 5 (2) | [evidence](https://agentskillshub.top/best-runs/slop/eric-tramel__slop-guard.html) |
-| [anti-slop](https://github.com/miqdadbadjuber/anti-slop) | 4,501 | 4.0/5 | wording | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/miqdadbadjuber__anti-slop.html) |
-| [humanizer-stack](https://github.com/NulightJens/humanizer-stack) | 318 | 3.5/5 | structure | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/NulightJens__humanizer-stack.html) |
-| [academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | 1,781 | 3.5/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/AIScientists-Dev__academic-humanizer.html) |
-| [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) | 694 | 3.5/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/realrossmanngroup__no_ai_slop_writing_rules.html) |
-| [humanizer-skill](https://github.com/Aboudjem/humanizer-skill) | 264 | 3.3/5 | wording | 1 | all kept | 38 (8) | [evidence](https://agentskillshub.top/best-runs/slop/Aboudjem__humanizer-skill.html) |
-| [humanizer](https://github.com/blader/humanizer) | 54,072 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/blader__humanizer.html) |
-| [sepia](https://github.com/Nanako0129/sepia) | 2,970 | 3.0/5 | structure | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/Nanako0129__sepia.html) |
-| [humanize](https://github.com/harshaneel/humanize) | 515 | 3.0/5 | wording | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/harshaneel__humanize.html) |
-| [unslop](https://github.com/MohamedAbdallah-14/unslop) | 153 | 3.0/5 | wording | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/MohamedAbdallah-14__unslop.html) |
-| [Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 18,940 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/op7418__Humanizer-zh.html) |
-| [speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) | 1,027 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/Raymondhou0917__speak-human-tw.html) |
-| [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | 848 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/OUBIGFA__De-AI-Prompt-Enhancer-Writer-Booster-SKILL.html) |
-| [qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei) | 622 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/LifelongLazyLearner__qu-ai-wei.html) |
-| [stop-slop](https://github.com/hardikpandya/stop-slop) | 17,755 | 3.0/5 | wording | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/hardikpandya__stop-slop.html) |
-| [StealthHumanizer](https://github.com/rudra496/StealthHumanizer) | 156 | 2.3/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/rudra496__StealthHumanizer.html) |
-| [patina](https://github.com/devswha/patina) | 363 | 2.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/devswha__patina.html) |
-| [lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) | 2,303 | 2.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/larashero3-dotcom__lieflat-less-ai-tone.html) |
-| [shuorenhua](https://github.com/MrGeDiao/shuorenhua) | 1,980 | 2.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/MrGeDiao__shuorenhua.html) |
-| [AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) | 435 | 1.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/DadaNanjesha__AI-Text-Humanizer-App.html) |
-| [vale-ai-tells](https://github.com/tbhb/vale-ai-tells) | 115 | - | detector only | - | - | 22 (2) | [evidence](https://agentskillshub.top/best-runs/slop/tbhb__vale-ai-tells.html) |
-| [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | 4,864 | - | detector only | - | - | 7 (0) | [evidence](https://agentskillshub.top/best-runs/slop/conorbronsdon__avoid-ai-writing.html) |
+| # | Skill | ★ | Reads human | Layer reached | AI structure removed | Facts | Detector flags | |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 212 | 4.5/5 | wording | 0 | all kept | 6 (0) | [evidence](https://agentskillshub.top/best-runs/slop/seyedehsanhadi__sloptrim.html) |
+| 2 | [slop-guard](https://github.com/eric-tramel/slop-guard) | 163 | 4.0/5 | wording | 0 | all kept | 5 (2) | [evidence](https://agentskillshub.top/best-runs/slop/eric-tramel__slop-guard.html) |
+| 3 | [anti-slop](https://github.com/miqdadbadjuber/anti-slop) | 4,501 | 4.0/5 | wording | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/miqdadbadjuber__anti-slop.html) |
+| 4 | [humanizer-stack](https://github.com/NulightJens/humanizer-stack) | 318 | 3.5/5 | structure | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/NulightJens__humanizer-stack.html) |
+| 5 | [academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | 1,781 | 3.5/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/AIScientists-Dev__academic-humanizer.html) |
+| 6 | [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) | 694 | 3.5/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/realrossmanngroup__no_ai_slop_writing_rules.html) |
+| 7 | [humanizer-skill](https://github.com/Aboudjem/humanizer-skill) | 264 | 3.3/5 | wording | 1 | all kept | 38 (8) | [evidence](https://agentskillshub.top/best-runs/slop/Aboudjem__humanizer-skill.html) |
+| 8 | [humanizer](https://github.com/blader/humanizer) | 54,072 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/blader__humanizer.html) |
+| 9 | [sepia](https://github.com/Nanako0129/sepia) | 2,970 | 3.0/5 | structure | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/Nanako0129__sepia.html) |
+| 10 | [humanize](https://github.com/harshaneel/humanize) | 515 | 3.0/5 | wording | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/harshaneel__humanize.html) |
+| 11 | [unslop](https://github.com/MohamedAbdallah-14/unslop) | 153 | 3.0/5 | wording | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/MohamedAbdallah-14__unslop.html) |
+| 12 | [Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 18,940 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/op7418__Humanizer-zh.html) |
+| 13 | [speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) | 1,027 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/Raymondhou0917__speak-human-tw.html) |
+| 14 | [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | 848 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/OUBIGFA__De-AI-Prompt-Enhancer-Writer-Booster-SKILL.html) |
+| 15 | [qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei) | 622 | 3.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/LifelongLazyLearner__qu-ai-wei.html) |
+| 16 | [stop-slop](https://github.com/hardikpandya/stop-slop) | 17,755 | 3.0/5 | wording | 1 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/hardikpandya__stop-slop.html) |
+| 17 | [StealthHumanizer](https://github.com/rudra496/StealthHumanizer) | 156 | 2.3/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/rudra496__StealthHumanizer.html) |
+| 18 | [patina](https://github.com/devswha/patina) | 363 | 2.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/devswha__patina.html) |
+| 19 | [lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) | 2,303 | 2.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/larashero3-dotcom__lieflat-less-ai-tone.html) |
+| 20 | [shuorenhua](https://github.com/MrGeDiao/shuorenhua) | 1,980 | 2.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/MrGeDiao__shuorenhua.html) |
+| 21 | [AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) | 435 | 1.0/5 | wording | 0 | all kept | - | [evidence](https://agentskillshub.top/best-runs/slop/DadaNanjesha__AI-Text-Humanizer-App.html) |
+| 22 | [vale-ai-tells](https://github.com/tbhb/vale-ai-tells) | 115 | - | detector only | - | - | 22 (2) | [evidence](https://agentskillshub.top/best-runs/slop/tbhb__vale-ai-tells.html) |
+| 23 | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | 4,864 | - | detector only | - | - | 7 (0) | [evidence](https://agentskillshub.top/best-runs/slop/conorbronsdon__avoid-ai-writing.html) |
 
 **Could not run:** humanize-text (Needs a Niutrans translation key besides an LLM key, and always outputs English.); AIWriteX (A desktop app that writes new articles from trending topics and posts them to WeChat; it cannot rewrite a given file.); attention-span (Changes how Claude writes its own replies; its skills start only when a person types the command.)
 

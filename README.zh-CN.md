@@ -6,6 +6,23 @@
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/anti-slop/](https://agentskillshub.top/best/anti-slop/?utm_source=github&utm_medium=awesome-list)** · 每 8 小时刷新
 
+## 到底装哪个
+
+我们实跑了其中 26 个(23 个出了结果),结论如下。[完整实测结果](#tested)在下面。
+
+- 🥇 **英文文本: [sloptrim](https://github.com/seyedehsanhadi/sloptrim)**  
+  实测里读起来最像人写的改写（4.5/5），事实全保留。和其他工具一样，它改的是措辞，不是结构。
+- 🥈 **中文文本: [Humanizer-zh](https://github.com/op7418/Humanizer-zh)**  
+  3.0/5，事实全保留，和另外三个中文工具并列；其中用的人最多。中文类没有得分更高的。
+- 🥉 **只检查不改写: [humanizer-skill](https://github.com/Aboudjem/humanizer-skill)**  
+  唯一认真查结构的检测器：报出的 38 处里有 8 处是讲明的道理、整齐的结尾这类结构问题。
+
+**别用:** AI-Text-Humanizer-App (在句首硬加连接词，越改越像 AI（1/5）).
+
+没有一个工具改掉结构上的 AI 味：40 份改写里，讲明的道理 26/26 留着，整齐的结尾 28/28 留着。删道理、留结尾、把泛指换成具体名字，得自己动手。
+
+*排名规则：改写类按改写稿读起来像人写的程度（1–5 分）排；检测类按报出多少结构问题排。*
+
 ## 这些 skill 能做什么
 
 <table>
@@ -47,31 +64,31 @@
 
 **发现:** 没有一个把结构上的 AI 味改掉。40 份改写里,讲明的道理 26/26 留着,整齐的结尾 28/28 留着,单线论证 40/40 没动;21 个改写类里 19 个只改了措辞。没有一份改丢事实。
 
-| Skill | ★ | 像人写 | 改到哪层 | 去掉的 AI 结构 | 事实 | 检测报出 | |
-|---|---|---|---|---|---|---|---|
-| [sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 212 | 4.5/5 | 措辞 | 0 | 全保留 | 6 (0) | [证据](https://agentskillshub.top/best-runs/slop/seyedehsanhadi__sloptrim.html) |
-| [slop-guard](https://github.com/eric-tramel/slop-guard) | 163 | 4.0/5 | 措辞 | 0 | 全保留 | 5 (2) | [证据](https://agentskillshub.top/best-runs/slop/eric-tramel__slop-guard.html) |
-| [anti-slop](https://github.com/miqdadbadjuber/anti-slop) | 4,501 | 4.0/5 | 措辞 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/miqdadbadjuber__anti-slop.html) |
-| [humanizer-stack](https://github.com/NulightJens/humanizer-stack) | 318 | 3.5/5 | 结构 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/NulightJens__humanizer-stack.html) |
-| [academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | 1,781 | 3.5/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/AIScientists-Dev__academic-humanizer.html) |
-| [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) | 694 | 3.5/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/realrossmanngroup__no_ai_slop_writing_rules.html) |
-| [humanizer-skill](https://github.com/Aboudjem/humanizer-skill) | 264 | 3.3/5 | 措辞 | 1 | 全保留 | 38 (8) | [证据](https://agentskillshub.top/best-runs/slop/Aboudjem__humanizer-skill.html) |
-| [humanizer](https://github.com/blader/humanizer) | 54,072 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/blader__humanizer.html) |
-| [sepia](https://github.com/Nanako0129/sepia) | 2,970 | 3.0/5 | 结构 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/Nanako0129__sepia.html) |
-| [humanize](https://github.com/harshaneel/humanize) | 515 | 3.0/5 | 措辞 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/harshaneel__humanize.html) |
-| [unslop](https://github.com/MohamedAbdallah-14/unslop) | 153 | 3.0/5 | 措辞 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/MohamedAbdallah-14__unslop.html) |
-| [Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 18,940 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/op7418__Humanizer-zh.html) |
-| [speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) | 1,027 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/Raymondhou0917__speak-human-tw.html) |
-| [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | 848 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/OUBIGFA__De-AI-Prompt-Enhancer-Writer-Booster-SKILL.html) |
-| [qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei) | 622 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/LifelongLazyLearner__qu-ai-wei.html) |
-| [stop-slop](https://github.com/hardikpandya/stop-slop) | 17,755 | 3.0/5 | 措辞 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/hardikpandya__stop-slop.html) |
-| [StealthHumanizer](https://github.com/rudra496/StealthHumanizer) | 156 | 2.3/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/rudra496__StealthHumanizer.html) |
-| [patina](https://github.com/devswha/patina) | 363 | 2.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/devswha__patina.html) |
-| [lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) | 2,303 | 2.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/larashero3-dotcom__lieflat-less-ai-tone.html) |
-| [shuorenhua](https://github.com/MrGeDiao/shuorenhua) | 1,980 | 2.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/MrGeDiao__shuorenhua.html) |
-| [AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) | 435 | 1.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/DadaNanjesha__AI-Text-Humanizer-App.html) |
-| [vale-ai-tells](https://github.com/tbhb/vale-ai-tells) | 115 | - | 只检测 | - | - | 22 (2) | [证据](https://agentskillshub.top/best-runs/slop/tbhb__vale-ai-tells.html) |
-| [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | 4,864 | - | 只检测 | - | - | 7 (0) | [证据](https://agentskillshub.top/best-runs/slop/conorbronsdon__avoid-ai-writing.html) |
+| # | Skill | ★ | 像人写 | 改到哪层 | 去掉的 AI 结构 | 事实 | 检测报出 | |
+|---|---|---|---|---|---|---|---|---|
+| 1 | [sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 212 | 4.5/5 | 措辞 | 0 | 全保留 | 6 (0) | [证据](https://agentskillshub.top/best-runs/slop/seyedehsanhadi__sloptrim.html) |
+| 2 | [slop-guard](https://github.com/eric-tramel/slop-guard) | 163 | 4.0/5 | 措辞 | 0 | 全保留 | 5 (2) | [证据](https://agentskillshub.top/best-runs/slop/eric-tramel__slop-guard.html) |
+| 3 | [anti-slop](https://github.com/miqdadbadjuber/anti-slop) | 4,501 | 4.0/5 | 措辞 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/miqdadbadjuber__anti-slop.html) |
+| 4 | [humanizer-stack](https://github.com/NulightJens/humanizer-stack) | 318 | 3.5/5 | 结构 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/NulightJens__humanizer-stack.html) |
+| 5 | [academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | 1,781 | 3.5/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/AIScientists-Dev__academic-humanizer.html) |
+| 6 | [no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) | 694 | 3.5/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/realrossmanngroup__no_ai_slop_writing_rules.html) |
+| 7 | [humanizer-skill](https://github.com/Aboudjem/humanizer-skill) | 264 | 3.3/5 | 措辞 | 1 | 全保留 | 38 (8) | [证据](https://agentskillshub.top/best-runs/slop/Aboudjem__humanizer-skill.html) |
+| 8 | [humanizer](https://github.com/blader/humanizer) | 54,072 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/blader__humanizer.html) |
+| 9 | [sepia](https://github.com/Nanako0129/sepia) | 2,970 | 3.0/5 | 结构 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/Nanako0129__sepia.html) |
+| 10 | [humanize](https://github.com/harshaneel/humanize) | 515 | 3.0/5 | 措辞 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/harshaneel__humanize.html) |
+| 11 | [unslop](https://github.com/MohamedAbdallah-14/unslop) | 153 | 3.0/5 | 措辞 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/MohamedAbdallah-14__unslop.html) |
+| 12 | [Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 18,940 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/op7418__Humanizer-zh.html) |
+| 13 | [speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) | 1,027 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/Raymondhou0917__speak-human-tw.html) |
+| 14 | [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | 848 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/OUBIGFA__De-AI-Prompt-Enhancer-Writer-Booster-SKILL.html) |
+| 15 | [qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei) | 622 | 3.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/LifelongLazyLearner__qu-ai-wei.html) |
+| 16 | [stop-slop](https://github.com/hardikpandya/stop-slop) | 17,755 | 3.0/5 | 措辞 | 1 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/hardikpandya__stop-slop.html) |
+| 17 | [StealthHumanizer](https://github.com/rudra496/StealthHumanizer) | 156 | 2.3/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/rudra496__StealthHumanizer.html) |
+| 18 | [patina](https://github.com/devswha/patina) | 363 | 2.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/devswha__patina.html) |
+| 19 | [lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) | 2,303 | 2.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/larashero3-dotcom__lieflat-less-ai-tone.html) |
+| 20 | [shuorenhua](https://github.com/MrGeDiao/shuorenhua) | 1,980 | 2.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/MrGeDiao__shuorenhua.html) |
+| 21 | [AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) | 435 | 1.0/5 | 措辞 | 0 | 全保留 | - | [证据](https://agentskillshub.top/best-runs/slop/DadaNanjesha__AI-Text-Humanizer-App.html) |
+| 22 | [vale-ai-tells](https://github.com/tbhb/vale-ai-tells) | 115 | - | 只检测 | - | - | 22 (2) | [证据](https://agentskillshub.top/best-runs/slop/tbhb__vale-ai-tells.html) |
+| 23 | [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | 4,864 | - | 只检测 | - | - | 7 (0) | [证据](https://agentskillshub.top/best-runs/slop/conorbronsdon__avoid-ai-writing.html) |
 
 **未能实测:** humanize-text (除 LLM key 外还要 Niutrans 翻译 key，且只输出英文。); AIWriteX (桌面应用，从热点生成新文章发公众号，不能改写给定的文件。); attention-span (改的是 Claude 自己的回话方式，而且只能由人手动敲命令启动。)
 
