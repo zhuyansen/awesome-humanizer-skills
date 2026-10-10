@@ -19,6 +19,16 @@
   "file": "ilyautov__humanizer-it.jpg",
   "still": "ilyautov__humanizer-it.jpg"
  },
+ "phuryn/work-humanizer": {
+  "repo": "phuryn/work-humanizer",
+  "url": "https://raw.githubusercontent.com/phuryn/work-humanizer/HEAD/evidence/charts/example@2x.png",
+  "alt": "A reply to a customer disputing a deposit deduction, rewritten by each tool. wor",
+  "score": 1.95,
+  "type": "image/png",
+  "bytes": 730901,
+  "file": "phuryn__work-humanizer.jpg",
+  "still": "phuryn__work-humanizer.jpg"
+ },
  "sgaofen/humanizer-local-model": {
   "repo": "sgaofen/humanizer-local-model",
   "url": "https://raw.githubusercontent.com/sgaofen/humanizer-local-model/HEAD/assets/app-showcase-en.png",
