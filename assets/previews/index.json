@@ -1,4 +1,14 @@
 {
+ "Guksu/suta": {
+  "repo": "Guksu/suta",
+  "url": "https://raw.githubusercontent.com/Guksu/suta/HEAD/docs/assets/as-is-to-be.jpg",
+  "alt": "The same shopping app request: without suta on top, with suta below",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 368882,
+  "file": "Guksu__suta.jpg",
+  "still": "Guksu__suta.jpg"
+ },
  "changemaner/design-taste-frontend": {
   "repo": "changemaner/design-taste-frontend",
   "url": "https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png",
