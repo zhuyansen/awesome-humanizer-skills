@@ -29,6 +29,16 @@
   "file": "ilyautov__humanizer-it.jpg",
   "still": "ilyautov__humanizer-it.jpg"
  },
+ "kjmagnan1s/anti-slop": {
+  "repo": "kjmagnan1s/anti-slop",
+  "url": "https://raw.githubusercontent.com/kjmagnan1s/anti-slop/HEAD/assets/anti-slop.gif",
+  "alt": "anti-slop annihilating generic AI text",
+  "score": 2.95,
+  "type": "image/gif",
+  "bytes": 5370775,
+  "file": "kjmagnan1s__anti-slop.gif",
+  "still": "kjmagnan1s__anti-slop.jpg"
+ },
  "phuryn/work-humanizer": {
   "repo": "phuryn/work-humanizer",
   "url": "https://raw.githubusercontent.com/phuryn/work-humanizer/HEAD/evidence/charts/example@2x.png",
