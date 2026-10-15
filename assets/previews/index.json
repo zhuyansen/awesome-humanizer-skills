@@ -29,6 +29,16 @@
   "file": "ilyautov__humanizer-it.jpg",
   "still": "ilyautov__humanizer-it.jpg"
  },
+ "imrangadzhiev/anti-slop": {
+  "repo": "imrangadzhiev/anti-slop",
+  "url": "https://raw.githubusercontent.com/imrangadzhiev/anti-slop/HEAD/docs/without.png",
+  "alt": "Without anti-slop: 13 files, 433 lines",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 301994,
+  "file": "imrangadzhiev__anti-slop.jpg",
+  "still": "imrangadzhiev__anti-slop.jpg"
+ },
  "kjmagnan1s/anti-slop": {
   "repo": "kjmagnan1s/anti-slop",
   "url": "https://raw.githubusercontent.com/kjmagnan1s/anti-slop/HEAD/assets/anti-slop.gif",
