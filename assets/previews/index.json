@@ -9,6 +9,16 @@
   "file": "Guksu__suta.jpg",
   "still": "Guksu__suta.jpg"
  },
+ "IT-Shelter-Labs/Shelter-Humanizer": {
+  "repo": "IT-Shelter-Labs/Shelter-Humanizer",
+  "url": "https://raw.githubusercontent.com/IT-Shelter-Labs/Shelter-Humanizer/HEAD/docs/images/ai-demo-light.png",
+  "alt": "Переработка текста об информационной безопасности с DeepSeek R1 8B: исходник сле",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 74308,
+  "file": "IT-Shelter-Labs__Shelter-Humanizer.jpg",
+  "still": "IT-Shelter-Labs__Shelter-Humanizer.jpg"
+ },
  "changemaner/design-taste-frontend": {
   "repo": "changemaner/design-taste-frontend",
   "url": "https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png",
