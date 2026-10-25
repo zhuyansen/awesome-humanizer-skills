@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `Bubblegunn__ai-slop-linter.gif` | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | MIT | [source](https://raw.githubusercontent.com/Bubblegunn/ai-slop-linter/HEAD/docs/demo.gif) |
 | `changemaner__design-taste-frontend.jpg` | [changemaner/design-taste-frontend](https://github.com/changemaner/design-taste-frontend) | MIT | [source](https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png) |
 | `Guksu__suta.jpg` | [Guksu/suta](https://github.com/Guksu/suta) | MIT | [source](https://raw.githubusercontent.com/Guksu/suta/HEAD/docs/assets/as-is-to-be.jpg) |
 | `ilyautov__humanizer-it.jpg` | [ilyautov/humanizer-it](https://github.com/ilyautov/humanizer-it) | MIT | [source](https://raw.githubusercontent.com/ilyautov/humanizer-it/HEAD/assets/social-preview.png) |

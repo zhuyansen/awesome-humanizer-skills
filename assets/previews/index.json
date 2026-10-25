@@ -1,4 +1,14 @@
 {
+ "Bubblegunn/ai-slop-linter": {
+  "repo": "Bubblegunn/ai-slop-linter",
+  "url": "https://raw.githubusercontent.com/Bubblegunn/ai-slop-linter/HEAD/docs/demo.gif",
+  "alt": "ai-slop-linter on a model-written pull request description, then --explain bold-",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 198571,
+  "file": "Bubblegunn__ai-slop-linter.gif",
+  "still": "Bubblegunn__ai-slop-linter.jpg"
+ },
  "Guksu/suta": {
   "repo": "Guksu/suta",
   "url": "https://raw.githubusercontent.com/Guksu/suta/HEAD/docs/assets/as-is-to-be.jpg",
