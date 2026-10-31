@@ -39,6 +39,16 @@
   "file": "changemaner__design-taste-frontend.jpg",
   "still": "changemaner__design-taste-frontend.jpg"
  },
+ "forjd/better-writing": {
+  "repo": "forjd/better-writing",
+  "url": "https://raw.githubusercontent.com/forjd/better-writing/HEAD/docs/before-after.gif",
+  "alt": "A 90-word launch email is audited: filler phrases are struck out in red, facts a",
+  "score": 2.85,
+  "type": "image/gif",
+  "bytes": 139577,
+  "file": "forjd__better-writing.gif",
+  "still": "forjd__better-writing.jpg"
+ },
  "ilyautov/humanizer-it": {
   "repo": "ilyautov/humanizer-it",
   "url": "https://raw.githubusercontent.com/ilyautov/humanizer-it/HEAD/assets/social-preview.png",
