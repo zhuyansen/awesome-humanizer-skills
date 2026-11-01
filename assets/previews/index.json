@@ -29,6 +29,16 @@
   "file": "IT-Shelter-Labs__Shelter-Humanizer.jpg",
   "still": "IT-Shelter-Labs__Shelter-Humanizer.jpg"
  },
+ "arhamhi/oxfords": {
+  "repo": "arhamhi/oxfords",
+  "url": "https://raw.githubusercontent.com/arhamhi/oxfords/HEAD/docs/v2-settings.gif",
+  "alt": "The workspace settings brief built with Oxfords v1, then v2",
+  "score": 2.6,
+  "type": "image/gif",
+  "bytes": 1206275,
+  "file": "arhamhi__oxfords.gif",
+  "still": "arhamhi__oxfords.jpg"
+ },
  "changemaner/design-taste-frontend": {
   "repo": "changemaner/design-taste-frontend",
   "url": "https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png",
@@ -39,6 +49,16 @@
   "file": "changemaner__design-taste-frontend.jpg",
   "still": "changemaner__design-taste-frontend.jpg"
  },
+ "felipebasurto/unslop-ui": {
+  "repo": "felipebasurto/unslop-ui",
+  "url": "https://raw.githubusercontent.com/felipebasurto/unslop-ui/HEAD/assets/before-after.png",
+  "alt": "The landing example rendered before and after",
+  "score": 1.7,
+  "type": "image/png",
+  "bytes": 283931,
+  "file": "felipebasurto__unslop-ui.jpg",
+  "still": "felipebasurto__unslop-ui.jpg"
+ },
  "forjd/better-writing": {
   "repo": "forjd/better-writing",
   "url": "https://raw.githubusercontent.com/forjd/better-writing/HEAD/docs/before-after.gif",
@@ -48,6 +68,16 @@
   "bytes": 139577,
   "file": "forjd__better-writing.gif",
   "still": "forjd__better-writing.jpg"
+ },
+ "heydamir/unslop": {
+  "repo": "heydamir/unslop",
+  "url": "https://raw.githubusercontent.com/heydamir/unslop/HEAD/skills/unslop/references/refs/story-dashboard-frames.webp",
+  "alt": "A vibecoded dashboard unslopping itself, frame by frame",
+  "score": -0.5,
+  "type": "image/webp",
+  "bytes": 187334,
+  "file": "heydamir__unslop.jpg",
+  "still": "heydamir__unslop.jpg"
  },
  "ilyautov/humanizer-it": {
   "repo": "ilyautov/humanizer-it",
