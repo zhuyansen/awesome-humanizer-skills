@@ -7,7 +7,6 @@ authors and stay under the license of the project they come from. To have one re
 | File | Project | License | Original |
 |---|---|---|---|
 | `arhamhi__oxfords.gif` | [arhamhi/oxfords](https://github.com/arhamhi/oxfords) | MIT | [source](https://raw.githubusercontent.com/arhamhi/oxfords/HEAD/docs/v2-settings.gif) |
-| `Bubblegunn__ai-slop-linter.gif` | [Bubblegunn/ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) | MIT | [source](https://raw.githubusercontent.com/Bubblegunn/ai-slop-linter/HEAD/docs/demo.gif) |
 | `changemaner__design-taste-frontend.jpg` | [changemaner/design-taste-frontend](https://github.com/changemaner/design-taste-frontend) | MIT | [source](https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png) |
 | `felipebasurto__unslop-ui.jpg` | [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui) | MIT | [source](https://raw.githubusercontent.com/felipebasurto/unslop-ui/HEAD/assets/before-after.png) |
 | `forjd__better-writing.gif` | [forjd/better-writing](https://github.com/forjd/better-writing) | MIT | [source](https://raw.githubusercontent.com/forjd/better-writing/HEAD/docs/before-after.gif) |
@@ -20,3 +19,4 @@ authors and stay under the license of the project they come from. To have one re
 | `phuryn__work-humanizer.jpg` | [phuryn/work-humanizer](https://github.com/phuryn/work-humanizer) | MIT | [source](https://raw.githubusercontent.com/phuryn/work-humanizer/HEAD/evidence/charts/example@2x.png) |
 | `sgaofen__humanizer-local-model.jpg` | [sgaofen/humanizer-local-model](https://github.com/sgaofen/humanizer-local-model) | Apache-2.0 | [source](https://raw.githubusercontent.com/sgaofen/humanizer-local-model/HEAD/assets/app-showcase-en.png) |
 | `sva-admin__sv-academy-prom-design.jpg` | [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design) | MIT | [source](https://raw.githubusercontent.com/sva-admin/sv-academy-prom-design/HEAD/demo/without-skill.png) |
+| `taufiquebuilds__nopurple.jpg` | [taufiquebuilds/nopurple](https://github.com/taufiquebuilds/nopurple) | MIT | [source](https://raw.githubusercontent.com/taufiquebuilds/nopurple/HEAD/docs/themes.png) |
