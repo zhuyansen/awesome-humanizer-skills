@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-开源的 **去 AI 味 / humanizer skill**:让 AI 写的文字、代码和界面读起来像人做的,检测 AI 腔,让 agent 守住写作风格。中英文都有。共 267 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
+开源的 **去 AI 味 / humanizer skill**:让 AI 写的文字、代码和界面读起来像人做的,检测 AI 腔,让 agent 守住写作风格。中英文都有。共 271 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/anti-slop/](https://agentskillshub.top/best/anti-slop/)** · 每 8 小时刷新
 
@@ -28,26 +28,26 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><b>✍️ 文字去 AI 味</b><br><sub>67 个仓库</sub><br><br><a href="https://github.com/forjd/better-writing"><img src="assets/previews/forjd__better-writing.gif" width="260" alt="forjd/better-writing"></a><br><sub>把 AI 写的文章、帖子、邮件改得像人写的。</sub><br><a href="#type-writing"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>✍️ 文字去 AI 味</b><br><sub>68 个仓库</sub><br><br><a href="https://github.com/forjd/better-writing"><img src="assets/previews/forjd__better-writing.gif" width="260" alt="forjd/better-writing"></a><br><sub>把 AI 写的文章、帖子、邮件改得像人写的。</sub><br><a href="#type-writing"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🔍 AI 味检测</b><br><sub>93 个仓库</sub><br><br><a href="https://github.com/kjmagnan1s/anti-slop"><img src="assets/previews/kjmagnan1s__anti-slop.gif" width="260" alt="kjmagnan1s/anti-slop"></a><br><sub>找出并给 AI 写作痕迹打分。</sub><br><a href="#type-detector"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🀄 中文去 AI 味</b><br><sub>40 个仓库</sub><br><br><sub>专门给中文去 AI 味。</sub><br><a href="#type-chinese"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><b>🧹 代码去 AI 味</b><br><sub>5 个仓库</sub><br><br><a href="https://github.com/imrangadzhiev/anti-slop"><img src="assets/previews/imrangadzhiev__anti-slop.jpg" width="260" alt="imrangadzhiev/anti-slop"></a><br><sub>清理代码和注释里的 AI 痕迹。</sub><br><a href="#type-code"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🎨 设计去 AI 味</b><br><sub>40 个仓库</sub><br><br><a href="https://github.com/arhamhi/oxfords"><img src="assets/previews/arhamhi__oxfords.gif" width="260" alt="arhamhi/oxfords"></a><br><sub>让 AI 做的界面摆脱千篇一律的 AI 感。</sub><br><a href="#type-design"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>📏 写作规则</b><br><sub>22 个仓库</sub><br><br><sub>agent 遵守的写作规范和禁用词表。</sub><br><a href="#type-rules"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🎨 设计去 AI 味</b><br><sub>42 个仓库</sub><br><br><a href="https://github.com/marcosnovo/unslop-design"><img src="assets/previews/marcosnovo__unslop-design.gif" width="260" alt="marcosnovo/unslop-design"></a><br><sub>让 AI 做的界面摆脱千篇一律的 AI 感。</sub><br><a href="#type-design"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📏 写作规则</b><br><sub>23 个仓库</sub><br><br><sub>agent 遵守的写作规范和禁用词表。</sub><br><a href="#type-rules"><b>查看列表 →</b></a></td>
 </tr>
 </table>
 
 ## 目录
 
 - [🧪 端到端实测](#tested)
-- [✍️ 文字去 AI 味](#type-writing) (67)
+- [✍️ 文字去 AI 味](#type-writing) (68)
 - [🔍 AI 味检测](#type-detector) (93)
 - [🀄 中文去 AI 味](#type-chinese) (40)
 - [🧹 代码去 AI 味](#type-code) (5)
-- [🎨 设计去 AI 味](#type-design) (40)
-- [📏 写作规则](#type-rules) (22)
+- [🎨 设计去 AI 味](#type-design) (42)
+- [📏 写作规则](#type-rules) (23)
 
 ## 什么样的仓库能上榜
 
@@ -108,25 +108,25 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [blader/humanizer](https://github.com/blader/humanizer) | 64.7k | 消除文本中 AI 生成痕迹的 agent skill | [SAFE](https://agentskillshub.top/skill/blader/humanizer/) |
-| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 3.6k | De-AI 写作 skill：Agent Skills 兼容 agent，修复小说叙事架构，匹配专业文体规则，基于 StoryScope。 | [SAFE](https://agentskillshub.top/skill/Nanako0129/sepia/) |
+| [blader/humanizer](https://github.com/blader/humanizer) | 65.1k | 消除文本中 AI 生成痕迹的 agent skill | [SAFE](https://agentskillshub.top/skill/blader/humanizer/) |
+| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 3.7k | De-AI 写作 skill：Agent Skills 兼容 agent，修复小说叙事架构，匹配专业文体规则，基于 StoryScope。 | [SAFE](https://agentskillshub.top/skill/Nanako0129/sepia/) |
 | [lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text) | 3.5k | 开源文本人性化流水线，公开每个中间步骤。先以1.3温度进行两次LLM改写，再通过不同NMT引擎完成两次转换。提供四种可阅读、修改并本地运行的方法。 | [SAFE](https://agentskillshub.top/skill/lynote-ai/humanize-text/) |
 | [iniwap/AIWriteX](https://github.com/iniwap/AIWriteX) | 2.2k | AIWriteX：微信公众号AI工具，支持热搜舆情聚合、趋势分析、选题、文章采集、生成排版发布、配图及多平台发布；支持多账号、短视频文案、手机控制和小说连载 | [SAFE](https://agentskillshub.top/skill/iniwap/AIWriteX/) |
-| [sgaofen/humanizer-local-model](https://github.com/sgaofen/humanizer-local-model) | 727 | 本地模型，让 AI 文本更像人类并绕过 AI 检测器 | [SAFE](https://agentskillshub.top/skill/sgaofen/humanizer-local-model/) |
-| [harshaneel/humanize](https://github.com/harshaneel/humanize) | 604 | 静态AI文本人性化工具：两项有研究依据且不依赖特定LLM的skill，使AI写作更自然易懂。含9个调节项、50+篇同行评审文献及2024—2026年检测研究。 | [SAFE](https://agentskillshub.top/skill/harshaneel/humanize/) |
-| [DadaNanjesha/AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) | 438 | 将 AI 生成文本转换为正式、自然且学术化的写作，规避 AI 检测。 | [SAFE](https://agentskillshub.top/skill/DadaNanjesha/AI-Text-Humanizer-App/) |
+| [sgaofen/humanizer-local-model](https://github.com/sgaofen/humanizer-local-model) | 750 | 本地模型，让 AI 文本更像人类并绕过 AI 检测器 | [SAFE](https://agentskillshub.top/skill/sgaofen/humanizer-local-model/) |
+| [harshaneel/humanize](https://github.com/harshaneel/humanize) | 605 | 静态AI文本人性化工具：两项有研究依据且不依赖特定LLM的skill，使AI写作更自然易懂。含9个调节项、50+篇同行评审文献及2024—2026年检测研究。 | [SAFE](https://agentskillshub.top/skill/harshaneel/humanize/) |
+| [DadaNanjesha/AI-Text-Humanizer-App](https://github.com/DadaNanjesha/AI-Text-Humanizer-App) | 439 | 将 AI 生成文本转换为正式、自然且学术化的写作，规避 AI 检测。 | [SAFE](https://agentskillshub.top/skill/DadaNanjesha/AI-Text-Humanizer-App/) |
 | [devswha/patina](https://github.com/devswha/patina) | 384 | 支持韩/英/中/日文的 AI 写作去机器感工具 | [SAFE](https://agentskillshub.top/skill/devswha/patina/) |
 | [NulightJens/humanizer-stack](https://github.com/NulightJens/humanizer-stack) | 379 | 基于 StoryScope 研究的双遍流程：表层与结构处理，去除对外文本的 AI 写作痕迹，封装为 Claude Code Skills | [SAFE](https://agentskillshub.top/skill/NulightJens/humanizer-stack/) |
 | [rudra496/StealthHumanizer](https://github.com/rudra496/StealthHumanizer) | 202 | 开源 AI 文本改写工具，支持16+语言、35个提供商、4级改写、6种风格、9种用途、13种语气和多轮 ninja mode；无需登录，面向学生和写作者。 | [SAFE](https://agentskillshub.top/skill/rudra496/StealthHumanizer/) |
-| [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) | 174 | AI输出拟人，去AI腔，保代码/URL/标题；Claude Code、Cursor、Windsurf、Codex、Cline、Copilot、Gemini插件 | [SAFE](https://agentskillshub.top/skill/MohamedAbdallah-14/unslop/) |
-| [sergebulaev/x-skills](https://github.com/sergebulaev/x-skills) | 169 | Claude Code/Codex的X skill：写推文、串文、回复，去AI痕迹并经Publora发布；开源MIT；Creative Content Cra… | [SAFE](https://agentskillshub.top/skill/sergebulaev/x-skills/) |
+| [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) | 177 | AI输出拟人，去AI腔，保代码/URL/标题；Claude Code、Cursor、Windsurf、Codex、Cline、Copilot、Gemini插件 | [SAFE](https://agentskillshub.top/skill/MohamedAbdallah-14/unslop/) |
+| [sergebulaev/x-skills](https://github.com/sergebulaev/x-skills) | 168 | Claude Code/Codex的X skill：写推文、串文、回复，去AI痕迹并经Publora发布；开源MIT；Creative Content Cra… | [SAFE](https://agentskillshub.top/skill/sergebulaev/x-skills/) |
 | [adhiprib/humanizer-indonesia](https://github.com/adhiprib/humanizer-indonesia) | 126 | Membuat tulisan AI lebih luwes dan enak dibaca, bukan untuk mengelabui deteksi AI | [SAFE](https://agentskillshub.top/skill/adhiprib/humanizer-indonesia/) |
-| [phuryn/work-humanizer](https://github.com/phuryn/work-humanizer) | 126 | 工作写作人性化工具：去除 AI 语气，不改变文本含义或承诺。Agent Skill + 证据：盲评、人工核查含义变化、Pangram。 | [SAFE](https://agentskillshub.top/skill/phuryn/work-humanizer/) |
+| [phuryn/work-humanizer](https://github.com/phuryn/work-humanizer) | 125 | 工作写作人性化工具：去除 AI 语气，不改变文本含义或承诺。Agent Skill + 证据：盲评、人工核查含义变化、Pangram。 | [SAFE](https://agentskillshub.top/skill/phuryn/work-humanizer/) |
 | [ehmo/slopkit](https://github.com/ehmo/slopkit) | 112 | AI agent 的反低质内容 skills：slopbeth 清理已发布文案，slopgent 清理对话。 | [SAFE](https://agentskillshub.top/skill/ehmo/slopkit/) |
+| [bushrabeg/turkce-humanizer](https://github.com/bushrabeg/turkce-humanizer) | 99 | 去除土耳其语文本中 AI 写作痕迹的 Claude skill，使其更自然。 | [SAFE](https://agentskillshub.top/skill/bushrabeg/turkce-humanizer/) |
 | [carlosafjr-dev/humanizer-br](https://github.com/carlosafjr-dev/humanizer-br) | 98 | 用于 Claude Code 的 skill，分析并重写文本，去除 AI 生成痕迹，使表达更自然、清晰、流畅。 | [SAFE](https://agentskillshub.top/skill/carlosafjr-dev/humanizer-br/) |
-| [bushrabeg/turkce-humanizer](https://github.com/bushrabeg/turkce-humanizer) | 97 | 去除土耳其语文本中 AI 写作痕迹的 Claude skill，使其更自然。 | [SAFE](https://agentskillshub.top/skill/bushrabeg/turkce-humanizer/) |
 | [ksanyok/TextHumanize](https://github.com/ksanyok/TextHumanize) | 95 | 将 AI 生成的文本转换为自然的人类风格内容；支持离线运行、25种语言和零依赖；PHANTOM™、ASH™；Python/PHP/TypeScript | [SAFE](https://agentskillshub.top/skill/ksanyok/TextHumanize/) |
-| [asavvin-pixel/unslop](https://github.com/asavvin-pixel/unslop) | 82 | Claude 英文文本润色工具：调整排版、词汇和结构，适配你的文风。基于 UMD、Google DeepMind 研究及维基百科《Signs of AI wr… | [SAFE](https://agentskillshub.top/skill/asavvin-pixel/unslop/) |
+| [asavvin-pixel/unslop](https://github.com/asavvin-pixel/unslop) | 85 | Claude 英文文本润色工具：调整排版、词汇和结构，适配你的文风。基于 UMD、Google DeepMind 研究及维基百科《Signs of AI wr… | [SAFE](https://agentskillshub.top/skill/asavvin-pixel/unslop/) |
 | [Wenzhi-Ding/wenzhi-plugins](https://github.com/Wenzhi-Ding/wenzhi-plugins) | 78 | coding agent 行为插件：humanize 注入「说人话」规则，skill-stats 统计技能触发和来源。 | [SAFE](https://agentskillshub.top/skill/Wenzhi-Ding/wenzhi-plugins/) |
 | [sanjaysah101/humanize-ai](https://github.com/sanjaysah101/humanize-ai) | 65 | 利用自然语言处理技术和数学模型，将 AI 生成文本转换为自然内容的系统。 | [SAFE](https://agentskillshub.top/skill/sanjaysah101/humanize-ai/) |
 | [IT-Shelter-Labs/Shelter-Humanizer](https://github.com/IT-Shelter-Labs/Shelter-Humanizer) | 63 | AI-assisted text editor for Windows with local LLM support, text rewriting, style improvement and Unicode cleanup. | [SAFE](https://agentskillshub.top/skill/IT-Shelter-Labs/Shelter-Humanizer/) |
@@ -138,9 +138,9 @@
 | [thevseprod/humanizer-ru](https://github.com/thevseprod/humanizer-ru) | 45 | 让 AI 文本更像人类：规则 + Claude Code skill，适用于俄语和英语。 | [SAFE](https://agentskillshub.top/skill/thevseprod/humanizer-ru/) |
 | [glaforge/deslopify](https://github.com/glaforge/deslopify) | 41 | 让文本更真实、自然，避免 AI 套话的 Gemini CLI skill | [SAFE](https://agentskillshub.top/skill/glaforge/deslopify/) |
 | [CBIhalsen/text-rewriter](https://github.com/CBIhalsen/text-rewriter) | 31 | 开源 Python 项目，通过词句处理、词性标注、同义词替换和格式优化，让 AI 文本更自然易读。 | [SAFE](https://agentskillshub.top/skill/CBIhalsen/text-rewriter/) |
-| [bejek/humanizer-czech](https://github.com/bejek/humanizer-czech) | 26 | 捷克语AI文本人性化工具，检测并改写27种捷克语AI写作模式，支持改写、自检、4种风格及Claude Code、ChatGPT、Gemini和其他LLM。 | [SAFE](https://agentskillshub.top/skill/bejek/humanizer-czech/) |
+| [bejek/humanizer-czech](https://github.com/bejek/humanizer-czech) | 27 | 捷克语AI文本人性化工具，检测并改写27种捷克语AI写作模式，支持改写、自检、4种风格及Claude Code、ChatGPT、Gemini和其他LLM。 | [SAFE](https://agentskillshub.top/skill/bejek/humanizer-czech/) |
+| [hjongc/humanizer-kr](https://github.com/hjongc/humanizer-kr) | 23 | 让带有 AI 痕迹的韩语更像人话、符合语境的 Codex·Claude Code skill | [SAFE](https://agentskillshub.top/skill/hjongc/humanizer-kr/) |
 | [amanmaqsood/prose-humanizer](https://github.com/amanmaqsood/prose-humanizer) | 21 | 通用 AI 写作 skill，将泛泛草稿改成具体、真实且风格一致的文字。 | [SAFE](https://agentskillshub.top/skill/amanmaqsood/prose-humanizer/) |
-| [hjongc/humanizer-kr](https://github.com/hjongc/humanizer-kr) | 21 | 让带有 AI 痕迹的韩语更像人话、符合语境的 Codex·Claude Code skill | [SAFE](https://agentskillshub.top/skill/hjongc/humanizer-kr/) |
 | [ferr079/humanizer-fr](https://github.com/ferr079/humanizer-fr) | 20 | Claude Code skill humanizer 的法语分支（blader/humanizer，MIT）——33种适合法语的AI写作模式 | [SAFE](https://agentskillshub.top/skill/ferr079/humanizer-fr/) |
 | [yyx20202020/natural-writing-skill](https://github.com/yyx20202020/natural-writing-skill) | 18 | 中英文自然写作与去AI味 skill，支持事实保护、文风校准、场景路由和可审查提示词。 | [SAFE](https://agentskillshub.top/skill/yyx20202020/natural-writing-skill/) |
 | [dotoricode/korean-humanizer](https://github.com/dotoricode/korean-humanizer) | 17 | 用于去除生成文本常见 AI 痕迹的韩语人性化提示词和 skill | [SAFE](https://agentskillshub.top/skill/dotoricode/korean-humanizer/) |
@@ -152,15 +152,15 @@
 | [LeahLiang/humanizer](https://github.com/LeahLiang/humanizer) | 12 | 降低AI率改写Skill，支持知网、维普、Turnitin等平台，中英文适用，保持准确、易读和学术规范。https://ushallpass.ai/ | [SAFE](https://agentskillshub.top/skill/LeahLiang/humanizer/) |
 | [durmazoguzhan/turkish-humanify](https://github.com/durmazoguzhan/turkish-humanify) | 12 | 面向 Claude 和 Claude Code 的土耳其语 humanizer skill，保留技术术语 | [SAFE](https://agentskillshub.top/skill/durmazoguzhan/turkish-humanify/) |
 | [machinemade-mm/humanmade-antislop](https://github.com/machinemade-mm/humanmade-antislop) | 12 | Claude Code 的反 AI 腔科学写作 skill，或：用人类口吻进行科学写作。 | [SAFE](https://agentskillshub.top/skill/machinemade-mm/humanmade-antislop/) |
+| [DevVettel/turkish-humanizer](https://github.com/DevVettel/turkish-humanizer) | 11 | 去除土耳其语文本中的 AI 写作模式，同时保留含义、数字和术语，适用于 Claude、ChatGPT、Gemini 等 LLM | [SAFE](https://agentskillshub.top/skill/DevVettel/turkish-humanizer/) |
 | [pielas-activy/humanizer-pl](https://github.com/pielas-activy/humanizer-pl) | 11 | 双语（PL+EN）humanizer/de-slop skill，基于 blader/humanizer，加入波兰语自然度层，测试 Bielik 是否适合审校… | [SAFE](https://agentskillshub.top/skill/pielas-activy/humanizer-pl/) |
 | [Albert-Lsk/alskai-deai-writer](https://github.com/Albert-Lsk/alskai-deai-writer) | 10 | 去除 AI 文本的生成痕迹，支持专业商务、技术科普、亲和对话、学术研究 4 种风格 | [SAFE](https://agentskillshub.top/skill/Albert-Lsk/alskai-deai-writer/) |
 | [KondrashovDenis/claude-humanizer-ru-skill](https://github.com/KondrashovDenis/claude-humanizer-ru-skill) | 10 | 清理俄语文本中 AI 套话的 Claude Code skill。blader/humanizer 适配版：公文腔、直译腔、夸大意义、排版退化与审计模式。 | [SAFE](https://agentskillshub.top/skill/KondrashovDenis/claude-humanizer-ru-skill/) |
 | [OthmanAdi/humanizer-semitic](https://github.com/OthmanAdi/humanizer-semitic) | 10 | 适用于阿拉伯语（现代标准语、埃及方言、黎凡特方言）和希伯来语的 AI 文本人性化 skill | [SAFE](https://agentskillshub.top/skill/OthmanAdi/humanizer-semitic/) |
 | [aeopress/writing-skills.TW](https://github.com/aeopress/writing-skills.TW) | 10 | Claude Code 繁体中文写作skill：humanizer-tw+good-writing-zh+fable-econ/fable-explore | [SAFE](https://agentskillshub.top/skill/aeopress/writing-skills.TW/) |
+| [diaiq/claude-skill-humanizer](https://github.com/diaiq/claude-skill-humanizer) | 10 | 让 AI 生成文本更像人类，绕过 GPTZero、Turnitin 等 AI 检测器。由 DiaIQ 提供支持。 | [SAFE](https://agentskillshub.top/skill/diaiq/claude-skill-humanizer/) |
 | [nordefors-max/claude-humanizer-svenska](https://github.com/nordefors-max/claude-humanizer-svenska) | 10 | 去除瑞典专业文本中AI写作模式的Claude skill，涵盖16类模式，适配北欧专业文风。 | [SAFE](https://agentskillshub.top/skill/nordefors-max/claude-humanizer-svenska/) |
-| [DevVettel/turkish-humanizer](https://github.com/DevVettel/turkish-humanizer) | 9 | 去除土耳其语文本中的 AI 写作模式，同时保留含义、数字和术语，适用于 Claude、ChatGPT、Gemini 等 LLM | [SAFE](https://agentskillshub.top/skill/DevVettel/turkish-humanizer/) |
 | [behzadsp/humanized-writing-skill](https://github.com/behzadsp/humanized-writing-skill) | 9 | 不依赖特定 agent 的 skill，用于撰写自然、人性化、注重 SEO 的文章和博客内容，避免机械化 AI 语言。 | [SAFE](https://agentskillshub.top/skill/behzadsp/humanized-writing-skill/) |
-| [diaiq/claude-skill-humanizer](https://github.com/diaiq/claude-skill-humanizer) | 9 | 让 AI 生成文本更像人类，绕过 GPTZero、Turnitin 等 AI 检测器。由 DiaIQ 提供支持。 | [SAFE](https://agentskillshub.top/skill/diaiq/claude-skill-humanizer/) |
 | [dixon2004/ai-humanizer](https://github.com/dixon2004/ai-humanizer) | 9 | AI Humanizer 是一个开源工具，可改写 AI 生成的文本，使其更自然流畅。 | [SAFE](https://agentskillshub.top/skill/dixon2004/ai-humanizer/) |
 | [evergreentree97/K-Humanizer](https://github.com/evergreentree97/K-Humanizer) | 9 | Agent Skill，让 LLM 撰写的韩语对韩国读者更自然，同时保留事实、数字和领域术语。 | [SAFE](https://agentskillshub.top/skill/evergreentree97/K-Humanizer/) |
 | [kane50613/native-writing](https://github.com/kane50613/native-writing) | 9 | 用英语、台湾繁中和简体中文撰写、编辑应用文案、文档、PR 描述、博客和消息的 agent skill，帮助读者一读就能照做。 | [SAFE](https://agentskillshub.top/skill/kane50613/native-writing/) |
@@ -174,6 +174,7 @@
 | [humanizer-tools/slop-humanizer](https://github.com/humanizer-tools/slop-humanizer) | 5 | Claude skill：去除 AI 写作模式，将文本重写得更像人类，综合自 8 个文本改写仓库。 | [SAFE](https://agentskillshub.top/skill/humanizer-tools/slop-humanizer/) |
 | [ilyautov/humanizer-it](https://github.com/ilyautov/humanizer-it) | 5 | 去除意大利语文本中的 AI 痕迹，开源 MIT skill for Claude：52 种模式、15 条硬性禁用项、无依赖扫描器 | [SAFE](https://agentskillshub.top/skill/ilyautov/humanizer-it/) |
 | [matsutouya/humanizer-ja](https://github.com/matsutouya/humanizer-ja) | 5 | 去除日文文本中 AI 生成痕迹的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/matsutouya/humanizer-ja/) |
+| [tqkqt0/humanizer-jp](https://github.com/tqkqt0/humanizer-jp) | 5 | 去除 AI 生成日文文本中 AI 痕迹的 agent skill，blader/humanizer 日文版（支持 Claude Code / Codex） | [SAFE](https://agentskillshub.top/skill/tqkqt0/humanizer-jp/) |
 | [williamkho77/claude-humanizer-id](https://github.com/williamkho77/claude-humanizer-id) | 5 | 让 Claude Code 更像人一样写印度尼西亚语，灵感来自 humanizer | [SAFE](https://agentskillshub.top/skill/williamkho77/claude-humanizer-id/) |
 
 <a id="type-detector"></a>
@@ -188,52 +189,52 @@
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
 | [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) | 6.4k | 将 AI 撰写的韩文润色得像人写的 Claude skill：检测并改写翻译腔、机械排比及其他71种 AI 痕迹 | [SAFE](https://agentskillshub.top/skill/epoko77-ai/im-not-ai/) |
-| [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | 5.9k | 用于拒绝缺乏依据的 TypeScript 和 JavaScript 写法的 Oxlint 规则 | [SAFE](https://agentskillshub.top/skill/dmmulroy/anti-slop/) |
+| [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | 6.0k | 用于拒绝缺乏依据的 TypeScript 和 JavaScript 写法的 Oxlint 规则 | [SAFE](https://agentskillshub.top/skill/dmmulroy/anti-slop/) |
 | [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | 5.4k | 审查并改写内容以去除 AI 写作特征的 skill，支持 Claude Code、OpenClaw、Codex 和 Hermes 等 agent。 | [SAFE](https://agentskillshub.top/skill/conorbronsdon/avoid-ai-writing/) |
 | [Jakeschincariol/linkedin-agent-skill](https://github.com/Jakeschincariol/linkedin-agent-skill) | 3.2k | 11个 Claude skill：管理 LinkedIn 账号，按21个开头公式发帖、评论和回复，评估资料、制定周计划，并在发布前去除AI痕迹和评分草稿。 | [SAFE](https://agentskillshub.top/skill/Jakeschincariol/linkedin-agent-skill/) |
+| [theclaymethod/unslop](https://github.com/theclaymethod/unslop) | 881 | 去除写作中 AI 痕迹的 agent skill | [SAFE](https://agentskillshub.top/skill/theclaymethod/unslop/) |
 | [peakoss/anti-slop](https://github.com/peakoss/anti-slop) | 855 | 检测并自动关闭低质量和 AI 垃圾 PR 的 GitHub Action | [SAFE](https://agentskillshub.top/skill/peakoss/anti-slop/) |
-| [theclaymethod/unslop](https://github.com/theclaymethod/unslop) | 803 | 去除写作中 AI 痕迹的 agent skill | [SAFE](https://agentskillshub.top/skill/theclaymethod/unslop/) |
-| [ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) | 520 | humanizer-ru：为 AI agent 编辑俄语文本，去除官样话和模板化表达，核查含义与事实。含 67 项特征、21 条禁用规则、扫描器、CLI、MC… | [SAFE](https://agentskillshub.top/skill/ilyautov/humanizer-ru/) |
-| [seyedehsanhadi/sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 415 | 本地 AI 写作模式检测器，为 agent 保存的每个文章文件评分。仅用 Python 标准库，无网络、无模型。 | [SAFE](https://agentskillshub.top/skill/seyedehsanhadi/sloptrim/) |
+| [ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) | 521 | humanizer-ru：为 AI agent 编辑俄语文本，去除官样话和模板化表达，核查含义与事实。含 67 项特征、21 条禁用规则、扫描器、CLI、MC… | [SAFE](https://agentskillshub.top/skill/ilyautov/humanizer-ru/) |
+| [seyedehsanhadi/sloptrim](https://github.com/seyedehsanhadi/sloptrim) | 414 | 本地 AI 写作模式检测器，为 agent 保存的每个文章文件评分。仅用 Python 标准库，无网络、无模型。 | [SAFE](https://agentskillshub.top/skill/seyedehsanhadi/sloptrim/) |
 | [Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill) | 301 | 开源 AI 写作人性化处理工具和检测器，支持 55 种模式、5 种语气及 0–100 AI 痕迹评分，数据不离开本机。 | [SAFE](https://agentskillshub.top/skill/Aboudjem/humanizer-skill/) |
-| [talkstream/ru-text](https://github.com/talkstream/ru-text) | 289 | AI代理的俄语文本质量：清理低质内容、排版、信息风格、编辑规范、UX写作和商务通信。文本评分0–10分。 | [SAFE](https://agentskillshub.top/skill/talkstream/ru-text/) |
+| [talkstream/ru-text](https://github.com/talkstream/ru-text) | 290 | AI代理的俄语文本质量：清理低质内容、排版、信息风格、编辑规范、UX写作和商务通信。文本评分0–10分。 | [SAFE](https://agentskillshub.top/skill/talkstream/ru-text/) |
 | [lynote-ai/humanize-text-skill](https://github.com/lynote-ai/humanize-text-skill) | 242 | 在线将 AI 文本改写得更像人工撰写 | [SAFE](https://agentskillshub.top/skill/lynote-ai/humanize-text-skill/) |
-| [Heyosseus/sloppy](https://github.com/Heyosseus/sloppy) | 223 | PHP AI agent债务分析：26规则、Claude Code hooks、git-diff、Rector/Pint、Pest、MCP；本地、确定性、无L… | [SAFE](https://agentskillshub.top/skill/Heyosseus/sloppy/) |
-| [smixs/humanizer-ru](https://github.com/smixs/humanizer-ru) | 199 | Claude Code、Codex、OpenClaw、Hermes 的 skill：去除俄语文本中的37种AI生成特征，检测是否由神经网络撰写 | [SAFE](https://agentskillshub.top/skill/smixs/humanizer-ru/) |
-| [marmbiz/humanizer-de](https://github.com/marmbiz/humanizer-de) | 196 | Claude Code 与 Codex 的德语文本润色工具。修改 AI 套话，保留写作风格，并忠实检查 72 种德语模式。 | [SAFE](https://agentskillshub.top/skill/marmbiz/humanizer-de/) |
+| [Heyosseus/sloppy](https://github.com/Heyosseus/sloppy) | 224 | PHP AI agent债务分析：26规则、Claude Code hooks、git-diff、Rector/Pint、Pest、MCP；本地、确定性、无L… | [SAFE](https://agentskillshub.top/skill/Heyosseus/sloppy/) |
+| [smixs/humanizer-ru](https://github.com/smixs/humanizer-ru) | 201 | Claude Code、Codex、OpenClaw、Hermes 的 skill：去除俄语文本中的37种AI生成特征，检测是否由神经网络撰写 | [SAFE](https://agentskillshub.top/skill/smixs/humanizer-ru/) |
+| [marmbiz/humanizer-de](https://github.com/marmbiz/humanizer-de) | 197 | Claude Code 与 Codex 的德语文本润色工具。修改 AI 套话，保留写作风格，并忠实检查 72 种德语模式。 | [SAFE](https://agentskillshub.top/skill/marmbiz/humanizer-de/) |
 | [eric-tramel/slop-guard](https://github.com/eric-tramel/slop-guard) | 167 | 通过低质内容评分遏制低质内容 | [SAFE](https://agentskillshub.top/skill/eric-tramel/slop-guard/) |
-| [manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop) | 159 | 开源 skill：发现并移除写作中的 AI 垃圾内容 | [SAFE](https://agentskillshub.top/skill/manavmishra/ZeroSlop/) |
+| [manavmishra/ZeroSlop](https://github.com/manavmishra/ZeroSlop) | 161 | 开源 skill：发现并移除写作中的 AI 垃圾内容 | [SAFE](https://agentskillshub.top/skill/manavmishra/ZeroSlop/) |
 | [Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) | 140 | 可验证的俄文文本聊天粘贴清理 | [SAFE](https://agentskillshub.top/skill/Vladimir-Human/humanizer-ru/) |
 | [crabin/paper-humanizer-skill](https://github.com/crabin/paper-humanizer-skill) | 138 | 中英文学术文本润色与人性化 skill，减少 AI 痕迹，保持事实准确。 | [SAFE](https://agentskillshub.top/skill/crabin/paper-humanizer-skill/) |
 | [Akimiya-z/codex-guard](https://github.com/Akimiya-z/codex-guard) | 131 | AI/Codex 生成 PR 的质量门禁：合并到 main 前拦截遗留 TODO、密钥泄露、草率提交和失败的 CI。 | [SAFE](https://agentskillshub.top/skill/Akimiya-z/codex-guard/) |
 | [brandonwise/humanizer](https://github.com/brandonwise/humanizer) | 131 | 检测并去除 AI 写作痕迹、让文本更自然的 OpenClaw skill，依据 Wikipedia《Signs of AI Writing》。 | [SAFE](https://agentskillshub.top/skill/brandonwise/humanizer/) |
-| [tbhb/vale-ai-tells](https://github.com/tbhb/vale-ai-tells) | 123 | vale-ai-tells 是用于检查 AI 写作痕迹的 Vale 风格包。 | [SAFE](https://agentskillshub.top/skill/tbhb/vale-ai-tells/) |
+| [tbhb/vale-ai-tells](https://github.com/tbhb/vale-ai-tells) | 124 | vale-ai-tells 是用于检查 AI 写作痕迹的 Vale 风格包。 | [SAFE](https://agentskillshub.top/skill/tbhb/vale-ai-tells/) |
 | [flamehaven01/AI-SLOP-Detector](https://github.com/flamehaven01/AI-SLOP-Detector) | 110 | 停止发布 AI 垃圾代码。检测 AI 生成代码中的空函数、虚假文档和夸大注释。 | [SAFE](https://agentskillshub.top/skill/flamehaven01/AI-SLOP-Detector/) |
 | [Nopon-Knowledge/huawei-cup-modeling-skill](https://github.com/Nopon-Knowledge/huawei-cup-modeling-skill) | 107 | Codex Skill：面向华为杯的论文AI痕迹诊断、改写、图表优化、规则核验与提交审计，保留事实和引文 | [SAFE](https://agentskillshub.top/skill/Nopon-Knowledge/huawei-cup-modeling-skill/) |
 | [misbahsy/anti-ai-slop](https://github.com/misbahsy/anti-ai-slop) | 103 | 用于检查并去除 AI 垃圾内容的 agent skill，可与 Codex、Claude Code 等 AI 工具配合使用。 | [SAFE](https://agentskillshub.top/skill/misbahsy/anti-ai-slop/) |
 | [distil-labs/distil-ai-slop-detector](https://github.com/distil-labs/distil-ai-slop-detector) | 96 | 在浏览器本地检测 AI 生成的文本 | [SAFE](https://agentskillshub.top/skill/distil-labs/distil-ai-slop-detector/) |
+| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) | 96 | 开源 AI 文本与 ChatGPT 检测器：23 个引擎，统一校准评分，数值均经测量。支持 CLI、MCP server 和 GitHub Action，可自… | [SAFE](https://agentskillshub.top/skill/pablocaeg/sloptotal/) |
 | [DadaNanjesha/AI-content-detector-Humanizer](https://github.com/DadaNanjesha/AI-content-detector-Humanizer) | 95 | 检测 PDF 文档中的 AI 生成内容，并将 AI 文本改写得更自然。基于 Streamlit、spaCy 和 Hugging Face transforme… | [SAFE](https://agentskillshub.top/skill/DadaNanjesha/AI-content-detector-Humanizer/) |
-| [pablocaeg/sloptotal](https://github.com/pablocaeg/sloptotal) | 93 | 开源 AI 文本与 ChatGPT 检测器：23 个引擎，统一校准评分，数值均经测量。支持 CLI、MCP server 和 GitHub Action，可自… | [SAFE](https://agentskillshub.top/skill/pablocaeg/sloptotal/) |
 | [rsionnach/sloppylint](https://github.com/rsionnach/sloppylint) | 91 | Python AI 代码检测器：发现代码库中的过度设计、幻觉和死代码 | [SAFE](https://agentskillshub.top/skill/rsionnach/sloppylint/) |
 | [airlock-hq/airlock](https://github.com/airlock-hq/airlock) | 86 | Airlock 将每次 git push 转为无垃圾内容的 PR。 | [SAFE](https://agentskillshub.top/skill/airlock-hq/airlock/) |
-| [pedrojaques99/visant-skills-public](https://github.com/pedrojaques99/visant-skills-public) | 82 | Visant 的 Claude Code skills：反低质 UI 审计、动效、前端、文案，含可执行检测器。 | [SAFE](https://agentskillshub.top/skill/pedrojaques99/visant-skills-public/) |
-| [leeandev/stop-slop-ko](https://github.com/leeandev/stop-slop-ko) | 77 | 한국어 문서에서 AI 티 걷어내기 \| Korean version of stop-slop for Claude Code (skills + docx/pptx/xlsx scanner) | [SAFE](https://agentskillshub.top/skill/leeandev/stop-slop-ko/) |
-| [qin1473692580-ux/oh-story-claudecode](https://github.com/qin1473692580-ux/oh-story-claudecode) | 70 | 网文/小说写作 skill 包，涵盖长短篇扫榜、拆文、写作、去AI味和封面图制作 | [SAFE](https://agentskillshub.top/skill/qin1473692580-ux/oh-story-claudecode/) |
-| [yanstd888/humanizer-lint](https://github.com/yanstd888/humanizer-lint) | 70 | 检测 AI 生成措辞、去除企业套话，规范 Markdown 和文档的清晰自然表达。 | [SAFE](https://agentskillshub.top/skill/yanstd888/humanizer-lint/) |
+| [pedrojaques99/visant-skills-public](https://github.com/pedrojaques99/visant-skills-public) | 84 | Visant 的 Claude Code skills：反低质 UI 审计、动效、前端、文案，含可执行检测器。 | [SAFE](https://agentskillshub.top/skill/pedrojaques99/visant-skills-public/) |
+| [leeandev/stop-slop-ko](https://github.com/leeandev/stop-slop-ko) | 78 | 한국어 문서에서 AI 티 걷어내기 \| Korean version of stop-slop for Claude Code (skills + docx/pptx/xlsx scanner) | [SAFE](https://agentskillshub.top/skill/leeandev/stop-slop-ko/) |
+| [yanstd888/humanizer-lint](https://github.com/yanstd888/humanizer-lint) | 78 | 检测 AI 生成措辞、去除企业套话，规范 Markdown 和文档的清晰自然表达。 | [SAFE](https://agentskillshub.top/skill/yanstd888/humanizer-lint/) |
+| [qin1473692580-ux/oh-story-claudecode](https://github.com/qin1473692580-ux/oh-story-claudecode) | 71 | 网文/小说写作 skill 包，涵盖长短篇扫榜、拆文、写作、去AI味和封面图制作 | [SAFE](https://agentskillshub.top/skill/qin1473692580-ux/oh-story-claudecode/) |
 | [AgriciDaniel/anti-slop](https://github.com/AgriciDaniel/anti-slop) | 67 | 发现并修复 AI 辅助文章、代码、文档和 agent 输出的实质缺陷。报告缺陷，不判定作者身份。用结构化测试代替模型判断，因 LLM 评审与人工低质标签的一致… | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/anti-slop/) |
 | [ilien-dev/quiron](https://github.com/ilien-dev/quiron) | 65 | AI humanizer skill，适用于 Claude Code、Codex 和 Cursor。去除 AI 腔和写作痕迹，并与人类基准比较改写结果。 | [SAFE](https://agentskillshub.top/skill/ilien-dev/quiron/) |
 | [Text2Go/ai-humanizer-mcp-server](https://github.com/Text2Go/ai-humanizer-mcp-server) | 64 | 帮助改进 AI 生成内容，使其更自然。具备 AI 检测和文本增强功能。 | [SAFE](https://agentskillshub.top/skill/Text2Go/ai-humanizer-mcp-server/) |
 | [gouwsxander/slop-detector](https://github.com/gouwsxander/slop-detector) | 62 | AI 写作检测器的端到端实现 | [SAFE](https://agentskillshub.top/skill/gouwsxander/slop-detector/) |
+| [stephenlzc/humanize-mba-text-skill](https://github.com/stephenlzc/humanize-mba-text-skill) | 61 | 中文MBA论文AI写作痕迹检测与去除工具 | [SAFE](https://agentskillshub.top/skill/stephenlzc/humanize-mba-text-skill/) |
 | [Nimblesite/Deslop](https://github.com/Nimblesite/Deslop) | 60 | Deslop Live 在 IDE 中分析重复代码，提供内联警告、问题视图和实时查询通道。 | [SAFE](https://agentskillshub.top/skill/Nimblesite/Deslop/) |
 | [millionco/deslop-js](https://github.com/millionco/deslop-js) | 60 | 清理 JavaScript 代码 | [SAFE](https://agentskillshub.top/skill/millionco/deslop-js/) |
-| [stephenlzc/humanize-mba-text-skill](https://github.com/stephenlzc/humanize-mba-text-skill) | 60 | 中文MBA论文AI写作痕迹检测与去除工具 | [SAFE](https://agentskillshub.top/skill/stephenlzc/humanize-mba-text-skill/) |
 | [apurvrdx1/tagore](https://github.com/apurvrdx1/tagore) | 57 | 让 AI 文本更像人写。29种模式+8条规则+8维评分，支持 Claude Code、OpenCode、Copilot CLI、Codex、Gemini、Go… | [SAFE](https://agentskillshub.top/skill/apurvrdx1/tagore/) |
 | [humanizerai/agent-skills](https://github.com/humanizerai/agent-skills) | 54 | HumanizerAI：用于 Claude Code 和 Codex 的 agent skill，AI 检测与文本去 AI 化 | [SAFE](https://agentskillshub.top/skill/humanizerai/agent-skills/) |
 | [huangziyuan-general/dsh-novel-forge](https://github.com/huangziyuan-general/dsh-novel-forge) | 40 | DSH 小说锻炉：将AI写作通病转为代码约束：事实账本、上下文包、阶段门禁、零费用去AI味扫描、确定性审计、提案式修订。 | [SAFE](https://agentskillshub.top/skill/huangziyuan-general/dsh-novel-forge/) |
 | [mmartoccia/grain](https://github.com/mmartoccia/grain) | 34 | 面向 AI 辅助代码库的低质代码检查器 | [SAFE](https://agentskillshub.top/skill/mmartoccia/grain/) |
+| [dabit3/deslop](https://github.com/dabit3/deslop) | 28 | 检测并移除分支中的 AI 生成代码模式（slop） | [SAFE](https://agentskillshub.top/skill/dabit3/deslop/) |
 | [momo2young/humanize-academic-writing](https://github.com/momo2young/humanize-academic-writing) | 28 | 面向社科学者的 Cursor skill（支持 Claude），将 AI 生成的学术文本转为自然学术写作 | [SAFE](https://agentskillshub.top/skill/momo2young/humanize-academic-writing/) |
 | [vstorm-co/content-skills](https://github.com/vstorm-co/content-skills) | 27 | 内容工作室 skill 包，支持博客、社交媒体、幻灯片、视频和信息图；遵循品牌规范，内置反低质机制。支持 Claude Code、Codex 和 AGENTS… | [SAFE](https://agentskillshub.top/skill/vstorm-co/content-skills/) |
-| [dabit3/deslop](https://github.com/dabit3/deslop) | 26 | 检测并移除分支中的 AI 生成代码模式（slop） | [SAFE](https://agentskillshub.top/skill/dabit3/deslop/) |
 | [scale-venture-partners/windbag](https://github.com/scale-venture-partners/windbag) | 26 | 反垃圾代码检查器：捕获描述变更历史而非当前约束的注释（Python/JS/TS/Terraform） | [SAFE](https://agentskillshub.top/skill/scale-venture-partners/windbag/) |
 | [walidboulanouar/anti-ai-slop](https://github.com/walidboulanouar/anti-ai-slop) | 24 | 检测并移除 AI 套话词和长破折号的 CLI | [SAFE](https://agentskillshub.top/skill/walidboulanouar/anti-ai-slop/) |
 | [badmuriss/unslop](https://github.com/badmuriss/unslop) | 23 | Strip AI writing tells at two layers: surface (Wikipedia Signs of AI writing) + narrative (StoryScope, arXiv:2604.03136). A model-agnostic LLM skill. | [SAFE](https://agentskillshub.top/skill/badmuriss/unslop/) |
@@ -247,7 +248,7 @@
 | [skew202/antislop](https://github.com/skew202/antislop) | 17 | 检测 AI 生成低质代码的多语言代码检查工具 | [SAFE](https://agentskillshub.top/skill/skew202/antislop/) |
 | [ismilewolf-eng/sloptrim-zh](https://github.com/ismilewolf-eng/sloptrim-zh) | 15 | 中文去 AI 味 skill 与本地检测脚本，基于 sloptrim 汉化，参考 Humanizer-zh。 | [SAFE](https://agentskillshub.top/skill/ismilewolf-eng/sloptrim-zh/) |
 | [MauroPello/stop-the-slop](https://github.com/MauroPello/stop-the-slop) | 13 | 实时识别 AI 生成的 YouTube 脚本和内容农场。支持 Chrome、Firefox 的开源浏览器扩展，提供缩略图标记和句子热力图。 | [SAFE](https://agentskillshub.top/skill/MauroPello/stop-the-slop/) |
-| [arslanr-com/writehuman](https://github.com/arslanr-com/writehuman) | 13 | Statistical linter that finds the words, phrases and constructions that make text read as LLM output, measured against billions of words people wrote… | [SAFE](https://agentskillshub.top/skill/arslanr-com/writehuman/) |
+| [arslanr-com/writehuman](https://github.com/arslanr-com/writehuman) | 13 | Offline linter that marks LLM-sounding prose. Its statistical model is trained on 2.8B tokens of human text and 11 LLM families, with 0.96 mean AUROC… | [SAFE](https://agentskillshub.top/skill/arslanr-com/writehuman/) |
 | [styrene-lab/lipstyk](https://github.com/styrene-lab/lipstyk) | 13 | 反 AI 垃圾代码分析，检测 Rust、TS/JS、Python、HTML/CSS 中的机器生成代码模式 | [SAFE](https://agentskillshub.top/skill/styrene-lab/lipstyk/) |
 | [cglabs-ai/guardian](https://github.com/cglabs-ai/guardian) | 12 | 在 AI 垃圾代码进入你的代码库前拦截它 | [SAFE](https://agentskillshub.top/skill/cglabs-ai/guardian/) |
 | [skyzer/deslop-the-copy](https://github.com/skyzer/deslop-the-copy) | 12 | 可移植的 agent skill，去除 AI 写作模式，同时保留作者文风。支持 Claude Code、Codex、OpenClaw、Cursor 等。 | [SAFE](https://agentskillshub.top/skill/skyzer/deslop-the-copy/) |
@@ -260,9 +261,9 @@
 | [Aaron-Bushnell/humanizer](https://github.com/Aaron-Bushnell/humanizer) | 10 | 检测47种AI写作模式，并按5种人类语气重写文本。基于ICML 2025词元概率分布研究的Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/Aaron-Bushnell/humanizer/) |
 | [TinyFrontier/anti-slop-py](https://github.com/TinyFrontier/anti-slop-py) | 10 | 一个确定性的 Python linter，检测 AI 编程 agent 未提供依据就屏蔽类型检查器。 | [SAFE](https://agentskillshub.top/skill/TinyFrontier/anti-slop-py/) |
 | [forint573/human-copywrite](https://github.com/forint573/human-copywrite) | 10 | Claude Agent Skill：让AI营销和长文案更像人写，适用于落地页、销售页、电子书、案例和创始人笔记；去除AI痕迹与流程噪音，删掉破折号，不编造事… | [SAFE](https://agentskillshub.top/skill/forint573/human-copywrite/) |
+| [kjmagnan1s/anti-slop](https://github.com/kjmagnan1s/anti-slop) | 10 | 检测、改写并吸收 AI 垃圾内容。以持续维护的规则替代 avoid-ai-writing、humanizer 和 stop-slop，并用保护列表保留你的风格。 | [SAFE](https://agentskillshub.top/skill/kjmagnan1s/anti-slop/) |
 | [aplaceforallmystuff/claude-slop-detector](https://github.com/aplaceforallmystuff/claude-slop-detector) | 9 | 用于检测内容中 AI 生成写作模式（slop）的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/aplaceforallmystuff/claude-slop-detector/) |
 | [apoapostolov/humanizer](https://github.com/apoapostolov/humanizer) | 9 | Humanizer 是一种 AI 写作 skill，可检测并改写 AI 文本特征，保留原意、匹配受众和语气，减少夸张与冗余，使内容更自然具体。 | [SAFE](https://agentskillshub.top/skill/apoapostolov/humanizer/) |
-| [kjmagnan1s/anti-slop](https://github.com/kjmagnan1s/anti-slop) | 9 | 检测、改写并吸收 AI 垃圾内容。以持续维护的规则替代 avoid-ai-writing、humanizer 和 stop-slop，并用保护列表保留你的风格。 | [SAFE](https://agentskillshub.top/skill/kjmagnan1s/anti-slop/) |
 | [theserverlessdev/wsc](https://github.com/theserverlessdev/wsc) | 9 | 散文校对器和AI套话检测器：识别模糊措辞、被动语态、模棱两可表达及190多项有研究依据的AI特征。提供网页编辑器、API、MCP server、CLI和Git… | [SAFE](https://agentskillshub.top/skill/theserverlessdev/wsc/) |
 | [zkrun/academic-humanizer-zh](https://github.com/zkrun/academic-humanizer-zh) | 9 | 检测中文学术写作的 AI 痕迹率（S1–S7 可解释打分），在不动事实/数据/引用的前提下降低它。Claude Code skill + 可独立运行的 Python 打分器。 | [SAFE](https://agentskillshub.top/skill/zkrun/academic-humanizer-zh/) |
 | [NorbertBodziony/biome-anti-slop](https://github.com/NorbertBodziony/biome-anti-slop) | 8 | Biome GritQL 规则：拒绝证据不足的 TypeScript 模式 | [SAFE](https://agentskillshub.top/skill/NorbertBodziony/biome-anti-slop/) |
@@ -271,11 +272,11 @@
 | [Lowcountry-AI/guardrail-skills](https://github.com/Lowcountry-AI/guardrail-skills) | 7 | 三个独立的 AI 编程 agent 防护：反 AI-slop 写作清单、代码注释规范清单、多 agent 编排配方钩子 | [SAFE](https://agentskillshub.top/skill/Lowcountry-AI/guardrail-skills/) |
 | [bnivanov/omp-writing-skills](https://github.com/bnivanov/omp-writing-skills) | 7 | 面向 agent harness 的生产级反低质 AI 写作套件，含语气校准、写作规则、去低质编辑器和确定性 AST 检查 | [SAFE](https://agentskillshub.top/skill/bnivanov/omp-writing-skills/) |
 | [infoslack/anti-slop-py](https://github.com/infoslack/anti-slop-py) | 7 | 用于拒绝低证据 Python 模式的严格 lint 规则 | [SAFE](https://agentskillshub.top/skill/infoslack/anti-slop-py/) |
+| [pengchenghaoche51/turnitin0_skill](https://github.com/pengchenghaoche51/turnitin0_skill) | 7 | Codex / Claude Code 的 Turnitin AI 检测、相似度检查和 AI 文本自然化 skill，可在提交前获取报告，通常10分钟内完成并… | [SAFE](https://agentskillshub.top/skill/pengchenghaoche51/turnitin0_skill/) |
+| [taufiquebuilds/nopurple](https://github.com/taufiquebuilds/nopurple) | 7 | 由人设计而非 AI 生成的幻灯片和图表，适用于 Claude Code、Codex 和 Cursor 的 agent skills。 | [SAFE](https://agentskillshub.top/skill/taufiquebuilds/nopurple/) |
 | [Ecow0ker/econ-humanizer-skills](https://github.com/Ecow0ker/econ-humanizer-skills) | 6 | 经济学论文去AI味与学术润色 Skill | [SAFE](https://agentskillshub.top/skill/Ecow0ker/econ-humanizer-skills/) |
 | [LanNguyenSi/agent-dx](https://github.com/LanNguyenSi/agent-dx) | 6 | Monorepo workshop for agent-development tooling: orchestrator-workflow and okf-kit ship on npm; slop-detector is the AI-slop linter for PRs. | [SAFE](https://agentskillshub.top/skill/LanNguyenSi/agent-dx/) |
 | [lokicik/novel-idea-hunter](https://github.com/lokicik/novel-idea-hunter) | 6 | 面向编程 agent 的证据优先、反低质内容机会发现 skill（Claude Code + Codex） | [SAFE](https://agentskillshub.top/skill/lokicik/novel-idea-hunter/) |
-| [pengchenghaoche51/turnitin0_skill](https://github.com/pengchenghaoche51/turnitin0_skill) | 6 | Codex / Claude Code 的 Turnitin AI 检测、相似度检查和 AI 文本自然化 skill，可在提交前获取报告，通常10分钟内完成并… | [SAFE](https://agentskillshub.top/skill/pengchenghaoche51/turnitin0_skill/) |
-| [taufiquebuilds/nopurple](https://github.com/taufiquebuilds/nopurple) | 6 | 由人设计而非 AI 生成的幻灯片和图表，适用于 Claude Code、Codex 和 Cursor 的 agent skills。 | [SAFE](https://agentskillshub.top/skill/taufiquebuilds/nopurple/) |
 | [JGalego/slopcop](https://github.com/JGalego/slopcop) | 5 | 低质内容止步于此 💩✋ | [SAFE](https://agentskillshub.top/skill/JGalego/slopcop/) |
 | [JulienSnsnCode/anti-slop-fr](https://github.com/JulienSnsnCode/anti-slop-fr) | 5 | 去除法语文本中 AI 写作痕迹的 Claude skill，涵盖词汇、结构和标点，改编自 stop-slop。 | [SAFE](https://agentskillshub.top/skill/JulienSnsnCode/anti-slop-fr/) |
 | [liuxiaobai8868/ai-slop-detector](https://github.com/liuxiaobai8868/ai-slop-detector) | 5 | 多语言 AI 味检测与去 AI 化工具集（中/英/西/阿/印地） | [SAFE](https://agentskillshub.top/skill/liuxiaobai8868/ai-slop-detector/) |
@@ -288,27 +289,27 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 22.0k | Humanizer 中文版：Claude Code skill，用于去除文本中的 AI 生成痕迹。 | [SAFE](https://agentskillshub.top/skill/op7418/Humanizer-zh/) |
-| [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) | 5.0k | 基于283万字语料统计的去AI味skill | [SAFE](https://agentskillshub.top/skill/larashero3-dotcom/lieflat-less-ai-tone/) |
+| [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 22.1k | Humanizer 中文版：Claude Code skill，用于去除文本中的 AI 生成痕迹。 | [SAFE](https://agentskillshub.top/skill/op7418/Humanizer-zh/) |
+| [larashero3-dotcom/lieflat-less-ai-tone](https://github.com/larashero3-dotcom/lieflat-less-ai-tone) | 5.1k | 基于283万字语料统计的去AI味skill | [SAFE](https://agentskillshub.top/skill/larashero3-dotcom/lieflat-less-ai-tone/) |
 | [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) | 2.5k | 中文优先的去 AI 味改写 skill：保留事实，按场景改写，可直接发布，支持 Codex、Claude Code、Cursor、ChatGPT | [SAFE](https://agentskillshub.top/skill/MrGeDiao/shuorenhua/) |
 | [Raymondhou0917/speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) | 1.1k | 「说人话」：繁体中文去 AI 味改写 skill，识别 38 种 AI 写作痕迹，校正大陆用语和半角标点，供 Claude Code、Codex、Cursor… | [SAFE](https://agentskillshub.top/skill/Raymondhou0917/speak-human-tw/) |
-| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | 953 | 去AI味提示词：作家增强 SKILL | [SAFE](https://agentskillshub.top/skill/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/) |
-| [LifelongLazyLearner/qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei) | 722 | 去除简体中文 AI 写作痕迹的 Chinese humanizer skill | [SAFE](https://agentskillshub.top/skill/LifelongLazyLearner/qu-ai-wei/) |
-| [Liuxiangjian-ai/official-document-skill](https://github.com/Liuxiangjian-ai/official-document-skill) | 429 | 面向公文写作的 skill，基于数百篇报刊文章总结，生成规范、稳妥、具体的公文 | [SAFE](https://agentskillshub.top/skill/Liuxiangjian-ai/official-document-skill/) |
-| [redbaronyyyyy-eng/humanizer-zh-academic](https://github.com/redbaronyyyyy-eng/humanizer-zh-academic) | 355 | 降低中文学术写作 AIGC 检测率的 Claude Code Skill | [SAFE](https://agentskillshub.top/skill/redbaronyyyyy-eng/humanizer-zh-academic/) |
-| [Hyacehila/humanizer-zh-next](https://github.com/Hyacehila/humanizer-zh-next) | 240 | 去除中文文本 AI 写作痕迹的 skill，基于 blader/humanizer 和 op7418/humanizer-zh | [SAFE](https://agentskillshub.top/skill/Hyacehila/humanizer-zh-next/) |
-| [ai-zixun/humanizer-zh](https://github.com/ai-zixun/humanizer-zh) | 210 | humanizer-zh 是兼容 Codex、Claude Code 和 OpenClaw 的中文去 AI 味 skill，用于重写、润色和审阅长文本。 | [SAFE](https://agentskillshub.top/skill/ai-zixun/humanizer-zh/) |
-| [VincentOld/stop-slop-zh](https://github.com/VincentOld/stop-slop-zh) | 99 | 消除中文 AI 写作痕迹的 Claude Skill：拆解排比、去名词化、将抽象主语换成具体细节。灵感来自 hardikpandya/stop-slop。 | [SAFE](https://agentskillshub.top/skill/VincentOld/stop-slop-zh/) |
+| [OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | 955 | 去AI味提示词：作家增强 SKILL | [SAFE](https://agentskillshub.top/skill/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL/) |
+| [LifelongLazyLearner/qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei) | 727 | 去除简体中文 AI 写作痕迹的 Chinese humanizer skill | [SAFE](https://agentskillshub.top/skill/LifelongLazyLearner/qu-ai-wei/) |
+| [Liuxiangjian-ai/official-document-skill](https://github.com/Liuxiangjian-ai/official-document-skill) | 431 | 面向公文写作的 skill，基于数百篇报刊文章总结，生成规范、稳妥、具体的公文 | [SAFE](https://agentskillshub.top/skill/Liuxiangjian-ai/official-document-skill/) |
+| [redbaronyyyyy-eng/humanizer-zh-academic](https://github.com/redbaronyyyyy-eng/humanizer-zh-academic) | 357 | 降低中文学术写作 AIGC 检测率的 Claude Code Skill | [SAFE](https://agentskillshub.top/skill/redbaronyyyyy-eng/humanizer-zh-academic/) |
+| [Hyacehila/humanizer-zh-next](https://github.com/Hyacehila/humanizer-zh-next) | 241 | 去除中文文本 AI 写作痕迹的 skill，基于 blader/humanizer 和 op7418/humanizer-zh | [SAFE](https://agentskillshub.top/skill/Hyacehila/humanizer-zh-next/) |
+| [ai-zixun/humanizer-zh](https://github.com/ai-zixun/humanizer-zh) | 211 | humanizer-zh 是兼容 Codex、Claude Code 和 OpenClaw 的中文去 AI 味 skill，用于重写、润色和审阅长文本。 | [SAFE](https://agentskillshub.top/skill/ai-zixun/humanizer-zh/) |
+| [VincentOld/stop-slop-zh](https://github.com/VincentOld/stop-slop-zh) | 100 | 消除中文 AI 写作痕迹的 Claude Skill：拆解排比、去名词化、将抽象主语换成具体细节。灵感来自 hardikpandya/stop-slop。 | [SAFE](https://agentskillshub.top/skill/VincentOld/stop-slop-zh/) |
 | [mengke-wang/zh-humanizer-literary](https://github.com/mengke-wang/zh-humanizer-literary) | 88 | 增强 Codex Skill 的中文去 AI 味与文采，让草稿更像人写。 | [SAFE](https://agentskillshub.top/skill/mengke-wang/zh-humanizer-literary/) |
+| [cangtianhuang/humanizer-academic-zh](https://github.com/cangtianhuang/humanizer-academic-zh) | 74 | Humanizer 中文学术版，Claude Code Skills/System Prompt，中文学术论文去AI痕迹提示词 | [SAFE](https://agentskillshub.top/skill/cangtianhuang/humanizer-academic-zh/) |
 | [baibanbao/qu-ai-wei](https://github.com/baibanbao/qu-ai-wei) | 73 | 中文写作的 AI 痕迹清理 skill，合并三家规则并裁决七处矛盾，用于清理中文草稿中的 AI 痕迹。 | [SAFE](https://agentskillshub.top/skill/baibanbao/qu-ai-wei/) |
-| [cangtianhuang/humanizer-academic-zh](https://github.com/cangtianhuang/humanizer-academic-zh) | 73 | Humanizer 中文学术版，Claude Code Skills/System Prompt，中文学术论文去AI痕迹提示词 | [SAFE](https://agentskillshub.top/skill/cangtianhuang/humanizer-academic-zh/) |
 | [allenloves/de-ai-tone](https://github.com/allenloves/de-ai-tone) | 65 | 去 AI 味：繁體中文寫作與翻譯的風格規範（Claude Code skill） | [SAFE](https://agentskillshub.top/skill/allenloves/de-ai-tone/) |
 | [pencil20388-eng/stop-slop-zh](https://github.com/pencil20388-eng/stop-slop-zh) | 54 | 消除中文写作中的 AI 腔：禁用词、标点规则、结构约束与四层质检。支持 Claude Code、Cursor、Codex CLI。 | [SAFE](https://agentskillshub.top/skill/pencil20388-eng/stop-slop-zh/) |
 | [mattwang1230/legal-paper-framework-humanizer-zh](https://github.com/mattwang1230/legal-paper-framework-humanizer-zh) | 40 | 基于《法学》期刊目录语料的中文法学写作 skill，减少论文框架的 AI 味 | [SAFE](https://agentskillshub.top/skill/mattwang1230/legal-paper-framework-humanizer-zh/) |
 | [Smith-2758/Humanizer-zh-academic](https://github.com/Smith-2758/Humanizer-zh-academic) | 30 | 大学生学术写作去AI味与反检测提示词指南，将机器腔调改为朴实严谨的学生笔触。 | [SAFE](https://agentskillshub.top/skill/Smith-2758/Humanizer-zh-academic/) |
 | [swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese) | 30 | 中文 AI 文本去痕迹与 Claude/SynthID 水印检查：六段式改写，清理零宽字符和同形字；仅测量 SynthID 残留，不声称可删除。纯 Pytho… | [SAFE](https://agentskillshub.top/skill/swaylq/humanize-chinese/) |
 | [nagameTW/formosa-humanizer](https://github.com/nagameTW/formosa-humanizer) | 26 | 以台灣用語和中文標點重寫 blader/humanizer，含中國用語偵測。支援 Claude Code、Codex、Claude.ai | [SAFE](https://agentskillshub.top/skill/nagameTW/formosa-humanizer/) |
-| [0xtresser/cn-humanizer](https://github.com/0xtresser/cn-humanizer) | 18 | 减少 AI 生成内容的 AI 味的 Agent Skill，适用于内容生成和英文翻译。 | [SAFE](https://agentskillshub.top/skill/0xtresser/cn-humanizer/) |
+| [0xtresser/cn-humanizer](https://github.com/0xtresser/cn-humanizer) | 19 | 减少 AI 生成内容的 AI 味的 Agent Skill，适用于内容生成和英文翻译。 | [SAFE](https://agentskillshub.top/skill/0xtresser/cn-humanizer/) |
 | [yelban/humanizer.TW](https://github.com/yelban/humanizer.TW) | 17 | 去除文本中 AI 生成痕迹的 Claude Code skill | [SAFE](https://agentskillshub.top/skill/yelban/humanizer.TW/) |
 | [deedeekong07-alt/fiction-humanizer-zh](https://github.com/deedeekong07-alt/fiction-humanizer-zh) | 13 | 中文小说去AI化写作 skill，用于AI辅助小说创作 | [SAFE](https://agentskillshub.top/skill/deedeekong07-alt/fiction-humanizer-zh/) |
 | [fanjack510-ctrl/chinese-webnovel-editor](https://github.com/fanjack510-ctrl/chinese-webnovel-editor) | 12 | 中文网络小说逐镜头去AI味审查与精修 skill | [SAFE](https://agentskillshub.top/skill/fanjack510-ctrl/chinese-webnovel-editor/) |
@@ -338,7 +339,7 @@
 |---|---:|---|---|
 | [peteromallet/desloppify](https://github.com/peteromallet/desloppify) | 4.1k | 用于将粗糙代码改进为工程化且美观代码的 Agent。 | [SAFE](https://agentskillshub.top/skill/peteromallet/desloppify/) |
 | [MrZoyo/deslop-GPT](https://github.com/MrZoyo/deslop-GPT) | 140 | 以删除为先的 Agent skill：移除测试膨胀、验证表演和推测性后备方案，同时保持行为不变。 | [SAFE](https://agentskillshub.top/skill/MrZoyo/deslop-GPT/) |
-| [LeonardNJU/code-humanizer](https://github.com/LeonardNJU/code-humanizer) | 92 | 代码清理 agent skill：移除 AI 生成代码赘余，经测试验证且保持行为不变。 | [SAFE](https://agentskillshub.top/skill/LeonardNJU/code-humanizer/) |
+| [LeonardNJU/code-humanizer](https://github.com/LeonardNJU/code-humanizer) | 93 | 代码清理 agent skill：移除 AI 生成代码赘余，经测试验证且保持行为不变。 | [SAFE](https://agentskillshub.top/skill/LeonardNJU/code-humanizer/) |
 | [imrangadzhiev/anti-slop](https://github.com/imrangadzhiev/anti-slop) | 27 | 可直接接入的 skill，防止 AI 编程 agent 产出垃圾：kill-slop、安全审查、PR 规范 | [SAFE](https://agentskillshub.top/skill/imrangadzhiev/anti-slop/) |
 | [agent-sh/deslop](https://github.com/agent-sh/deslop) | 8 | 清理 AI 生成的冗余内容，尽量少改动并保持行为不变 | [SAFE](https://agentskillshub.top/skill/agent-sh/deslop/) |
 
@@ -350,42 +351,43 @@
 <table><tr>
 <td align="center" valign="top"><a href="https://github.com/heydamir/unslop"><img src="assets/previews/heydamir__unslop.jpg" width="260" alt="heydamir/unslop"></a><br><sub><a href="https://github.com/heydamir/unslop">heydamir/unslop</a></sub></td>
 <td align="center" valign="top"><a href="https://github.com/sva-admin/sv-academy-prom-design"><img src="assets/previews/sva-admin__sv-academy-prom-design.jpg" width="260" alt="sva-admin/sv-academy-prom-design"></a><br><sub><a href="https://github.com/sva-admin/sv-academy-prom-design">sva-admin/sv-academy-prom-design</a></sub></td>
-<td align="center" valign="top"><a href="https://github.com/Guksu/suta"><img src="assets/previews/Guksu__suta.jpg" width="260" alt="Guksu/suta"></a><br><sub><a href="https://github.com/Guksu/suta">Guksu/suta</a></sub></td>
+<td align="center" valign="top"><a href="https://github.com/arhamhi/oxfords"><img src="assets/previews/arhamhi__oxfords.gif" width="260" alt="arhamhi/oxfords"></a><br><sub><a href="https://github.com/arhamhi/oxfords">arhamhi/oxfords</a></sub></td>
 </tr></table>
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 109.9k | Taste-Skill：让 AI 具备审美，避免生成无聊、千篇一律的内容 | [SAFE](https://agentskillshub.top/skill/Leonxlnx/taste-skill/) |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 102.4k | 为 coding agent 提供设计词汇：精致而大胆地引导，批评与审计式复核，发布前发现 AI 低质内容。 | [SAFE](https://agentskillshub.top/skill/pbakaus/impeccable/) |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 47.6k | 适用于 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计 skill。 | [SAFE](https://agentskillshub.top/skill/Nutlope/hallmark/) |
-| [heydamir/unslop](https://github.com/heydamir/unslop) | 8.3k | 将凭感觉编写、像 AI 生成的界面转化为经过设计的界面的 Claude skill | [SAFE](https://agentskillshub.top/skill/heydamir/unslop/) |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 110.5k | Taste-Skill：让 AI 具备审美，避免生成无聊、千篇一律的内容 | [SAFE](https://agentskillshub.top/skill/Leonxlnx/taste-skill/) |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 103.6k | 为 coding agent 提供设计词汇：精致而大胆地引导，批评与审计式复核，发布前发现 AI 低质内容。 | [SAFE](https://agentskillshub.top/skill/pbakaus/impeccable/) |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 48.5k | 适用于 Claude Code、Cursor 和 Codex 的反 AI 垃圾设计 skill。 | [SAFE](https://agentskillshub.top/skill/Nutlope/hallmark/) |
+| [heydamir/unslop](https://github.com/heydamir/unslop) | 9.4k | 将凭感觉编写、像 AI 生成的界面转化为经过设计的界面的 Claude skill | [SAFE](https://agentskillshub.top/skill/heydamir/unslop/) |
 | [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) | 1.4k | AI 生成产品的视觉与文案特征指南，以及扫描项目并清除它们的 Agent Skill。https://killaislop.com | [SAFE](https://agentskillshub.top/skill/yetone/kill-ai-slop/) |
 | [agiwhitelist/auteur](https://github.com/agiwhitelist/auteur) | 1.0k | Claude Code skill 以电影制作方式指导网站，涵盖提交清单、生成资源、构建和每次发布前执行的 anti-slop linter。 | [SAFE](https://agentskillshub.top/skill/agiwhitelist/auteur/) |
 | [Yu-369/VibeCurb](https://github.com/Yu-369/VibeCurb) | 997 | VibeCurb：为 AI 工作流注入审美，避免 agent 生成乏味的 AI 垃圾内容 | [SAFE](https://agentskillshub.top/skill/Yu-369/VibeCurb/) |
-| [joeseesun/qiaomu-design](https://github.com/joeseesun/qiaomu-design) | 673 | Claude Code设计顾问：反通用UI、风格试衣间、58个真实网站设计系统库 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-design/) |
-| [mshumer/unslop](https://github.com/mshumer/unslop) | 556 | 实证检测模型反复使用的默认模式，生成可复用 skill 文件，让输出更具体。 | [SAFE](https://agentskillshub.top/skill/mshumer/unslop/) |
+| [joeseesun/qiaomu-design](https://github.com/joeseesun/qiaomu-design) | 674 | Claude Code设计顾问：反通用UI、风格试衣间、58个真实网站设计系统库 | [SAFE](https://agentskillshub.top/skill/joeseesun/qiaomu-design/) |
+| [mshumer/unslop](https://github.com/mshumer/unslop) | 557 | 实证检测模型反复使用的默认模式，生成可复用 skill 文件，让输出更具体。 | [SAFE](https://agentskillshub.top/skill/mshumer/unslop/) |
 | [codeswithroh/tastemaker](https://github.com/codeswithroh/tastemaker) | 524 | Claude Code skill，基于真实参考图和开发者持久化审美档案生成 UI，避免通用 AI 默认风格。 | [SAFE](https://agentskillshub.top/skill/codeswithroh/tastemaker/) |
-| [educlopez/ui-craft](https://github.com/educlopez/ui-craft) | 431 | 面向 AI 编程 agent 的设计工程系统——以精工级质量交付 UI。安装为 agent skill。 | [SAFE](https://agentskillshub.top/skill/educlopez/ui-craft/) |
-| [tasteskill/tasteskill](https://github.com/tasteskill/tasteskill) | 312 | 面向 AI Agent 的反低质前端框架 | [SAFE](https://agentskillshub.top/skill/tasteskill/tasteskill/) |
-| [mblode/agent-skills](https://github.com/mblode/agent-skills) | 181 | 没人会故意发布 AI 垃圾内容。这些 skill 确保你不会。 | [SAFE](https://agentskillshub.top/skill/mblode/agent-skills/) |
-| [funboy322/avoid-ai-design](https://github.com/funboy322/avoid-ai-design) | 141 | 审查并重写 AI 生成的前端，去除紫色渐变、奶油+陶土色和单色默认样式。附零依赖扫描器，是 avoid-ai-writing 的设计对应工具。 | [SAFE](https://agentskillshub.top/skill/funboy322/avoid-ai-design/) |
-| [Laith0003/ux-skill](https://github.com/Laith0003/ux-skill) | 94 | Claude Code、Cursor、Windsurf 设计引擎：确定性反 AI-slop 检查器（152 条规则）；离线运行，不调用 LLM，MIT。 | [SAFE](https://agentskillshub.top/skill/Laith0003/ux-skill/) |
+| [educlopez/ui-craft](https://github.com/educlopez/ui-craft) | 432 | 面向 AI 编程 agent 的设计工程系统——以精工级质量交付 UI。安装为 agent skill。 | [SAFE](https://agentskillshub.top/skill/educlopez/ui-craft/) |
+| [tasteskill/tasteskill](https://github.com/tasteskill/tasteskill) | 316 | 面向 AI Agent 的反低质前端框架 | [SAFE](https://agentskillshub.top/skill/tasteskill/tasteskill/) |
+| [mblode/agent-skills](https://github.com/mblode/agent-skills) | 186 | 没人会故意发布 AI 垃圾内容。这些 skill 确保你不会。 | [SAFE](https://agentskillshub.top/skill/mblode/agent-skills/) |
+| [funboy322/avoid-ai-design](https://github.com/funboy322/avoid-ai-design) | 144 | 审查并重写 AI 生成的前端，去除紫色渐变、奶油+陶土色和单色默认样式。附零依赖扫描器，是 avoid-ai-writing 的设计对应工具。 | [SAFE](https://agentskillshub.top/skill/funboy322/avoid-ai-design/) |
+| [Laith0003/ux-skill](https://github.com/Laith0003/ux-skill) | 96 | Claude Code、Cursor、Windsurf 设计引擎：确定性反 AI-slop 检查器（152 条规则）；离线运行，不调用 LLM，MIT。 | [SAFE](https://agentskillshub.top/skill/Laith0003/ux-skill/) |
 | [Gesso-Build/skills](https://github.com/Gesso-Build/skills) | 93 | HTML/CSS 确定性设计审查：73 条专业设计师的生产级反粗糙规则，含精确检测器、幂等自动修复、反粗糙 skill 和 /gesso-critique 命… | [SAFE](https://agentskillshub.top/skill/Gesso-Build/skills/) |
-| [h3nryprod01/design-taste](https://github.com/h3nryprod01/design-taste) | 91 | Claude Code / Cowork 的前端设计规范，涵盖字体、配色、动效、组件与反套路。 | [SAFE](https://agentskillshub.top/skill/h3nryprod01/design-taste/) |
+| [h3nryprod01/design-taste](https://github.com/h3nryprod01/design-taste) | 90 | Claude Code / Cowork 的前端设计规范，涵盖字体、配色、动效、组件与反套路。 | [SAFE](https://agentskillshub.top/skill/h3nryprod01/design-taste/) |
 | [Mutakisa/game-slop-purge](https://github.com/Mutakisa/game-slop-purge) | 74 | 游戏 UI 清理 Agent Skill 2026：移除杂乱，保留趣味 | [SAFE](https://agentskillshub.top/skill/Mutakisa/game-slop-purge/) |
 | [phazurlabs/sumi](https://github.com/phazurlabs/sumi) | 58 | Sumi——Claude Code 的 UX/UI 设计知识库：43 个 skill、168 份参考、37 个命令，反低质设计并提供可审计引用链。使用 /su… | [SAFE](https://agentskillshub.top/skill/phazurlabs/sumi/) |
-| [stevembarclay/pencilplaybook](https://github.com/stevembarclay/pencilplaybook) | 56 | PencilPlaybook 是 Pencil.dev + Claude Code 的 UI Taste-Skill，结合感知心理学与资深设计约束，减少雷同… | [SAFE](https://agentskillshub.top/skill/stevembarclay/pencilplaybook/) |
-| [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) | 37 | 用 Vibe Discovery 流程和反 AI 套话原则创建视觉独特的落地页 | [SAFE](https://agentskillshub.top/skill/2389-research/landing-page-design/) |
-| [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) | 33 | 5万多个独特 HTML 演示设计。零依赖。拒绝 AI 垃圾风。Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/nghiahsgs/skills-slides/) |
+| [stevembarclay/pencilplaybook](https://github.com/stevembarclay/pencilplaybook) | 57 | PencilPlaybook 是 Pencil.dev + Claude Code 的 UI Taste-Skill，结合感知心理学与资深设计约束，减少雷同… | [SAFE](https://agentskillshub.top/skill/stevembarclay/pencilplaybook/) |
+| [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) | 38 | 用 Vibe Discovery 流程和反 AI 套话原则创建视觉独特的落地页 | [SAFE](https://agentskillshub.top/skill/2389-research/landing-page-design/) |
+| [nghiahsgs/skills-slides](https://github.com/nghiahsgs/skills-slides) | 34 | 5万多个独特 HTML 演示设计。零依赖。拒绝 AI 垃圾风。Claude Code skill。 | [SAFE](https://agentskillshub.top/skill/nghiahsgs/skills-slides/) |
 | [sva-admin/sv-academy-prom-design](https://github.com/sva-admin/sv-academy-prom-design) | 30 | Claude Code、Cowork 和 Cursor 的设计风格。Prom 是泰语“准备好”的意思。免费学习：loop.sv-academy.org | [SAFE](https://agentskillshub.top/skill/sva-admin/sv-academy-prom-design/) |
 | [arhamhi/oxfords](https://github.com/arhamhi/oxfords) | 26 | 适用于 Claude Code、Codex 和 Cursor 的 UI/UX skill，简洁界面，避免 AI slop，含零依赖 slop checker。 | [SAFE](https://agentskillshub.top/skill/arhamhi/oxfords/) |
+| [Ferousco-dev/anti-slop-design](https://github.com/Ferousco-dev/anti-slop-design) | 21 | Claude Agent Skill，避免生成千篇一律的 AI 设计。 | [SAFE](https://agentskillshub.top/skill/Ferousco-dev/anti-slop-design/) |
 | [nickture/skills](https://github.com/nickture/skills) | 21 | Two Agent Skills that help an AI agent make an interface clear, consistent, easy to use and scalable, and Russian text clear and correct (English ver… | [SAFE](https://agentskillshub.top/skill/nickture/skills/) |
-| [Ferousco-dev/anti-slop-design](https://github.com/Ferousco-dev/anti-slop-design) | 20 | Claude Agent Skill，避免生成千篇一律的 AI 设计。 | [SAFE](https://agentskillshub.top/skill/Ferousco-dev/anti-slop-design/) |
 | [Guksu/suta](https://github.com/Guksu/suta) | 18 | 消除 AI 垃圾内容的 UI skill | [SAFE](https://agentskillshub.top/skill/Guksu/suta/) |
-| [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui) | 17 | 用于删去界面和图表文案中 AI 痕迹的 agent skill：眉题标签、01/02/03 编号、机器人解释式说明、装饰徽章和状态点。 | [SAFE](https://agentskillshub.top/skill/felipebasurto/unslop-ui/) |
+| [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui) | 16 | 用于删去界面和图表文案中 AI 痕迹的 agent skill：眉题标签、01/02/03 编号、机器人解释式说明、装饰徽章和状态点。 | [SAFE](https://agentskillshub.top/skill/felipebasurto/unslop-ui/) |
+| [marcosnovo/unslop-design](https://github.com/marcosnovo/unslop-design) | 14 | Claude Code等 agent skill：64项设计修复、UI评分脚本和你确认的前后对比。 | [SAFE](https://agentskillshub.top/skill/marcosnovo/unslop-design/) |
 | [kmaida/deslop-skills](https://github.com/kmaida/deslop-skills) | 13 | 用于去除或避免 AI agent 生成的前端 UI 设计和文字内容中的低质内容的 skills。 | [SAFE](https://agentskillshub.top/skill/kmaida/deslop-skills/) |
+| [changemaner/design-taste-frontend](https://github.com/changemaner/design-taste-frontend) | 10 | 反低质前端设计 skill（通用前端设计+deck 模式），含30个真实品牌素材库、清单驱动的风格选择和质量检查关卡 | [SAFE](https://agentskillshub.top/skill/changemaner/design-taste-frontend/) |
 | [kesslerio/ultimate-frontend-design-openclaw-skill](https://github.com/kesslerio/ultimate-frontend-design-openclaw-skill) | 10 | 使用 React、Tailwind、shadcn/ui 创建静态网站，无需设计稿。避免 AI 套路化设计，采用移动优先模式和单文件打包。 | [SAFE](https://agentskillshub.top/skill/kesslerio/ultimate-frontend-design-openclaw-skill/) |
-| [changemaner/design-taste-frontend](https://github.com/changemaner/design-taste-frontend) | 9 | 反低质前端设计 skill（通用前端设计+deck 模式），含30个真实品牌素材库、清单驱动的风格选择和质量检查关卡 | [SAFE](https://agentskillshub.top/skill/changemaner/design-taste-frontend/) |
 | [Hayatelin/taste-skill-zh-CN](https://github.com/Hayatelin/taste-skill-zh-CN) | 8 | Taste Skill 简体中文版——面向 AI agent 的反低质前端设计 skill | [SAFE](https://agentskillshub.top/skill/Hayatelin/taste-skill-zh-CN/) |
 | [mah-claude/anti-slop-website-prompts](https://github.com/mah-claude/anti-slop-website-prompts) | 8 | Meez（meez.design）的15个艺术指导网站构建提示词和反低质设计SKILL.md，适用于Lovable、Bolt、v0、Cursor和Claude… | [SAFE](https://agentskillshub.top/skill/mah-claude/anti-slop-website-prompts/) |
 | [saidkaban/evalmedia](https://github.com/saidkaban/evalmedia) | 7 | 停止 AI 垃圾内容 | [SAFE](https://agentskillshub.top/skill/saidkaban/evalmedia/) |
@@ -393,6 +395,7 @@
 | [FerasMahmoud/mega-frontend-design](https://github.com/FerasMahmoud/mega-frontend-design) | 5 | Claude Code 的前端设计 skill：10 种原型、GSAP/Framer/Three.js 模式、设计令牌、阿拉伯语/RTL 支持、反俗套黑名单 | [SAFE](https://agentskillshub.top/skill/FerasMahmoud/mega-frontend-design/) |
 | [Itskindastrange/fe-design-skill](https://github.com/Itskindastrange/fe-design-skill) | 5 | Claude Code 的反低质前端设计 skill，整合 design-impeccable、emil-design-eng 和 design-taste-… | [SAFE](https://agentskillshub.top/skill/Itskindastrange/fe-design-skill/) |
 | [beatra-ai/ai-image-realism-skill](https://github.com/beatra-ai/ai-image-realism-skill) | 5 | Claude Code、Cursor、Codex、Windsurf、Cline、OpenClaw的AI图像skill：修复塑料皮肤、畸形手脸、重复纹理和光照问题 | [SAFE](https://agentskillshub.top/skill/beatra-ai/ai-image-realism-skill/) |
+| [claudiusararu/unslop-ui-skill](https://github.com/claudiusararu/unslop-ui-skill) | 5 | 防止 AI 生成千篇一律的 AI 风界面：反套话设计 skill，收录约 100 条 AI 设计特征，适用于 Claude Code、Cursor、v0 等。 | [SAFE](https://agentskillshub.top/skill/claudiusararu/unslop-ui-skill/) |
 | [jferracini/anti-slop-os](https://github.com/jferracini/anti-slop-os) | 5 | anti-slop-os：运行在 AI agent 内的 Creative Director，检查生成的 UI，识别“AI 风格”。 | [SAFE](https://agentskillshub.top/skill/jferracini/anti-slop-os/) |
 | [rohunvora/anti-slop-library](https://github.com/rohunvora/anti-slop-library) | 5 | 防止 AI 生成低质氛围编程代码的 UI 参考库 | [SAFE](https://agentskillshub.top/skill/rohunvora/anti-slop-library/) |
 
@@ -403,27 +406,28 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 18.6k | 去除文章中 AI 痕迹的 skill 文件 | [SAFE](https://agentskillshub.top/skill/hardikpandya/stop-slop/) |
-| [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) | 8.2k | AI 编程 agent 筛除通用 AI 生成的 UI 设计、文本和代码的规则。 | [SAFE](https://agentskillshub.top/skill/miqdadbadjuber/anti-slop/) |
-| [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | 3.3k | 去除论文和NSF/NIH基金申请中的AI写作痕迹，保持学术文风，让论断有据。适用于 Claude Code、Codex 和 MorphMind 的 skill | [SAFE](https://agentskillshub.top/skill/AIScientists-Dev/academic-humanizer/) |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 18.7k | 去除文章中 AI 痕迹的 skill 文件 | [SAFE](https://agentskillshub.top/skill/hardikpandya/stop-slop/) |
+| [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) | 8.3k | AI 编程 agent 筛除通用 AI 生成的 UI 设计、文本和代码的规则。 | [SAFE](https://agentskillshub.top/skill/miqdadbadjuber/anti-slop/) |
+| [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | 3.5k | 去除论文和NSF/NIH基金申请中的AI写作痕迹，保持学术文风，让论断有据。适用于 Claude Code、Codex 和 MorphMind 的 skill | [SAFE](https://agentskillshub.top/skill/AIScientists-Dev/academic-humanizer/) |
 | [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) | 1.5k | 让你的 agent 说人话。为 Claude Code、Codex 等提供 ADHD 友好的输出风格，关注内容而非 token。 | [SAFE](https://agentskillshub.top/skill/alexgreensh/attention-span/) |
 | [realrossmanngroup/no_ai_slop_writing_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) | 710 | Claude Code 参考：用 Louis Rossmann 的口吻写作，避免 AI 垃圾。可移植的 CLAUDE.md 和 skills。 | [SAFE](https://agentskillshub.top/skill/realrossmanngroup/no_ai_slop_writing_rules/) |
-| [jalaalrd/anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) | 586 | 消除可检测 AI 模式的 AI 写作 skill，支持 Claude Code、Codex、Cursor、Gemini CLI 等 agent。 | [SAFE](https://agentskillshub.top/skill/jalaalrd/anti-ai-slop-writing/) |
-| [iKora128/stop-ai-slop-jp](https://github.com/iKora128/stop-ai-slop-jp) | 476 | 去除日语文章 AI 痕迹的 Claude skill | [SAFE](https://agentskillshub.top/skill/iKora128/stop-ai-slop-jp/) |
+| [jalaalrd/anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) | 590 | 消除可检测 AI 模式的 AI 写作 skill，支持 Claude Code、Codex、Cursor、Gemini CLI 等 agent。 | [SAFE](https://agentskillshub.top/skill/jalaalrd/anti-ai-slop-writing/) |
+| [iKora128/stop-ai-slop-jp](https://github.com/iKora128/stop-ai-slop-jp) | 477 | 去除日语文章 AI 痕迹的 Claude skill | [SAFE](https://agentskillshub.top/skill/iKora128/stop-ai-slop-jp/) |
 | [stephenturner/skill-deslop](https://github.com/stephenturner/skill-deslop) | 434 | 去除科学写作中的 AI 痕迹 | [SAFE](https://agentskillshub.top/skill/stephenturner/skill-deslop/) |
 | [matsuikentaro1/humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) | 297 | 用于去除学术医学论文中 AI 生成痕迹的 Claude Code skill，使其更自然、专业。 | [SAFE](https://agentskillshub.top/skill/matsuikentaro1/humanizer_academic/) |
-| [gonta223/humanizer-ja](https://github.com/gonta223/humanizer-ja) | 162 | 将AI味日语改写成人类文章的Claude Code skill，含20种模式检查清单和改写指南。 | [SAFE](https://agentskillshub.top/skill/gonta223/humanizer-ja/) |
+| [gonta223/humanizer-ja](https://github.com/gonta223/humanizer-ja) | 163 | 将AI味日语改写成人类文章的Claude Code skill，含20种模式检查清单和改写指南。 | [SAFE](https://agentskillshub.top/skill/gonta223/humanizer-ja/) |
 | [proffitteoy/Mathematician-Humanizer](https://github.com/proffitteoy/Mathematician-Humanizer) | 132 | 基于文体计量与参考文风分析的 AI 写作技能，让数学文字更清晰自然 | [SAFE](https://agentskillshub.top/skill/proffitteoy/Mathematician-Humanizer/) |
 | [FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) | 93 | 120种让文字读起来像AI垃圾内容的模式，附带适用于Claude Code和Codex的agent skill。 | [SAFE](https://agentskillshub.top/skill/FeedHive/ai-slop-detector/) |
 | [junbolian/Academic-Humanizer](https://github.com/junbolian/Academic-Humanizer) | 53 | 去除中英文论文中的 AI 语气，核验数字、公式、引文和定理表述不变。 | [SAFE](https://agentskillshub.top/skill/junbolian/Academic-Humanizer/) |
-| [haidrrrry/humanize-ai-writing](https://github.com/haidrrrry/humanize-ai-writing) | 25 | 反 AI 套话 system prompt 和 skill，让 ChatGPT、Claude、Gemini、Grok、Kimi 写得像人，禁用常见 AI 话术。 | [SAFE](https://agentskillshub.top/skill/haidrrrry/humanize-ai-writing/) |
+| [haidrrrry/humanize-ai-writing](https://github.com/haidrrrry/humanize-ai-writing) | 26 | 反 AI 套话 system prompt 和 skill，让 ChatGPT、Claude、Gemini、Grok、Kimi 写得像人，禁用常见 AI 话术。 | [SAFE](https://agentskillshub.top/skill/haidrrrry/humanize-ai-writing/) |
 | [adewale/anti-slop-writing](https://github.com/adewale/anti-slop-writing) | 22 | 用于编辑文稿，使其读起来不像通用 LLM 输出的 Agent Skill | [SAFE](https://agentskillshub.top/skill/adewale/anti-slop-writing/) |
 | [SummerRiversound/human-readable-reports](https://github.com/SummerRiversound/human-readable-reports) | 14 | Agent skill：让 AI 撰写的分析和报告文档更易读、更易分享，减少冗长和废话。 | [SAFE](https://agentskillshub.top/skill/SummerRiversound/human-readable-reports/) |
 | [jiutianxvanyin/humanizer-formal](https://github.com/jiutianxvanyin/humanizer-formal) | 14 | 降低商务和学术文本的 AI 生成感，适用于中英文。 | [SAFE](https://agentskillshub.top/skill/jiutianxvanyin/humanizer-formal/) |
 | [impactcrew/dont-be-a-sloperator](https://github.com/impactcrew/dont-be-a-sloperator) | 10 | 别做 sloperator。十条基于原则而非禁词的规则，让 AI 不再像 AI。附 /work skill，要求输出前思考。支持 Claude Code、Ch… | [SAFE](https://agentskillshub.top/skill/impactcrew/dont-be-a-sloperator/) |
-| [AMishradev/outbound-writing](https://github.com/AMishradev/outbound-writing) | 6 | 去除冷邮件中 AI 痕迹的 Claude Code skill，面向技术人员的创业公司外联反套话工具 | [SAFE](https://agentskillshub.top/skill/AMishradev/outbound-writing/) |
+| [AMishradev/outbound-writing](https://github.com/AMishradev/outbound-writing) | 7 | 去除冷邮件中 AI 痕迹的 Claude Code skill，面向技术人员的创业公司外联反套话工具 | [SAFE](https://agentskillshub.top/skill/AMishradev/outbound-writing/) |
 | [Dexxter182/humanizer-hu](https://github.com/Dexxter182/humanizer-hu) | 6 | 匈牙利语写作 skill：让 agent 输出不像 AI，含26个示例、文档级决策和无 LLM lint，支持 Claude Code、Codex、Curso… | [SAFE](https://agentskillshub.top/skill/Dexxter182/humanizer-hu/) |
 | [barbodshafiee0012-hash/student-exam-skill](https://github.com/barbodshafiee0012-hash/student-exam-skill) | 5 | 一个 Claude skill，像大学生一样回答考试问题，简洁自然，参考伊朗大学教材，只给答案。 | [SAFE](https://agentskillshub.top/skill/barbodshafiee0012-hash/student-exam-skill/) |
+| [henmuc/codex-academic-humanizer](https://github.com/henmuc/codex-academic-humanizer) | 5 | 可改变写作风格的 Codex skill | [SAFE](https://agentskillshub.top/skill/henmuc/codex-academic-humanizer/) |
 | [nakashimatakaya/deslop-ja](https://github.com/nakashimatakaya/deslop-ja) | 5 | 用于发现并修正 AI 生成日语风格的 Claude Code / Codex / claude.ai skill，支持临床研究论文模式。 | [SAFE](https://agentskillshub.top/skill/nakashimatakaya/deslop-ja/) |
 
 **安全评级**是 Agent Skills Hub 对仓库 README 和安装步骤的评级。*待评级*表示目录还没评到它。
@@ -440,4 +444,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-04。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-05。
