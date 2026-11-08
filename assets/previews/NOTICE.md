@@ -6,11 +6,13 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `alchaincyf__tramstop-skill.jpg` | [alchaincyf/tramstop-skill](https://github.com/alchaincyf/tramstop-skill) | MIT | [source](https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg) |
 | `arhamhi__oxfords.gif` | [arhamhi/oxfords](https://github.com/arhamhi/oxfords) | MIT | [source](https://raw.githubusercontent.com/arhamhi/oxfords/HEAD/docs/v2-settings.gif) |
 | `changemaner__design-taste-frontend.jpg` | [changemaner/design-taste-frontend](https://github.com/changemaner/design-taste-frontend) | MIT | [source](https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png) |
 | `felipebasurto__unslop-ui.jpg` | [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui) | MIT | [source](https://raw.githubusercontent.com/felipebasurto/unslop-ui/HEAD/assets/before-after.png) |
 | `forjd__better-writing.gif` | [forjd/better-writing](https://github.com/forjd/better-writing) | MIT | [source](https://raw.githubusercontent.com/forjd/better-writing/HEAD/docs/before-after.gif) |
 | `Guksu__suta.jpg` | [Guksu/suta](https://github.com/Guksu/suta) | MIT | [source](https://raw.githubusercontent.com/Guksu/suta/HEAD/docs/assets/as-is-to-be.jpg) |
+| `Harrypatria__tastemaker.jpg` | [Harrypatria/tastemaker](https://github.com/Harrypatria/tastemaker) | MIT | [source](https://raw.githubusercontent.com/Harrypatria/tastemaker/HEAD/assets/scan.png) |
 | `heydamir__unslop.jpg` | [heydamir/unslop](https://github.com/heydamir/unslop) | CC-BY-4.0 | [source](https://raw.githubusercontent.com/heydamir/unslop/HEAD/skills/unslop/references/refs/story-dashboard-frames.webp) |
 | `ilyautov__humanizer-it.jpg` | [ilyautov/humanizer-it](https://github.com/ilyautov/humanizer-it) | MIT | [source](https://raw.githubusercontent.com/ilyautov/humanizer-it/HEAD/assets/social-preview.png) |
 | `imrangadzhiev__anti-slop.jpg` | [imrangadzhiev/anti-slop](https://github.com/imrangadzhiev/anti-slop) | MIT | [source](https://raw.githubusercontent.com/imrangadzhiev/anti-slop/HEAD/docs/without.png) |

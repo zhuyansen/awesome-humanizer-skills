@@ -9,6 +9,16 @@
   "file": "Guksu__suta.jpg",
   "still": "Guksu__suta.jpg"
  },
+ "Harrypatria/tastemaker": {
+  "repo": "Harrypatria/tastemaker",
+  "url": "https://raw.githubusercontent.com/Harrypatria/tastemaker/HEAD/assets/scan.png",
+  "alt": "Tastemaker scanner output listing slop findings with rule IDs, severity levels a",
+  "score": 1.05,
+  "type": "image/png",
+  "bytes": 139167,
+  "file": "Harrypatria__tastemaker.jpg",
+  "still": "Harrypatria__tastemaker.jpg"
+ },
  "IT-Shelter-Labs/Shelter-Humanizer": {
   "repo": "IT-Shelter-Labs/Shelter-Humanizer",
   "url": "https://raw.githubusercontent.com/IT-Shelter-Labs/Shelter-Humanizer/HEAD/docs/images/ai-demo-light.png",
@@ -18,6 +28,16 @@
   "bytes": 74308,
   "file": "IT-Shelter-Labs__Shelter-Humanizer.jpg",
   "still": "IT-Shelter-Labs__Shelter-Humanizer.jpg"
+ },
+ "alchaincyf/tramstop-skill": {
+  "repo": "alchaincyf/tramstop-skill",
+  "url": "https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg",
+  "alt": "FanBox · Coding Agent 的驾驶舱",
+  "score": -2.75,
+  "type": "image/jpeg",
+  "bytes": 605945,
+  "file": "alchaincyf__tramstop-skill.jpg",
+  "still": "alchaincyf__tramstop-skill.jpg"
  },
  "arhamhi/oxfords": {
   "repo": "arhamhi/oxfords",
