@@ -49,6 +49,16 @@
   "file": "arhamhi__oxfords.gif",
   "still": "arhamhi__oxfords.jpg"
  },
+ "avivgerz-hue/unslop": {
+  "repo": "avivgerz-hue/unslop",
+  "url": "https://raw.githubusercontent.com/avivgerz-hue/unslop/main/docs/assets/before-after-unslop.png",
+  "alt": "Before and after unslop: a generic purple-gradient AI landing page transformed i",
+  "score": -2.8,
+  "type": "image/png",
+  "bytes": 251544,
+  "file": "avivgerz-hue__unslop.jpg",
+  "still": "avivgerz-hue__unslop.jpg"
+ },
  "changemaner/design-taste-frontend": {
   "repo": "changemaner/design-taste-frontend",
   "url": "https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png",

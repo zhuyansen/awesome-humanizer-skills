@@ -8,6 +8,7 @@ authors and stay under the license of the project they come from. To have one re
 |---|---|---|---|
 | `alchaincyf__tramstop-skill.jpg` | [alchaincyf/tramstop-skill](https://github.com/alchaincyf/tramstop-skill) | MIT | [source](https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg) |
 | `arhamhi__oxfords.gif` | [arhamhi/oxfords](https://github.com/arhamhi/oxfords) | MIT | [source](https://raw.githubusercontent.com/arhamhi/oxfords/HEAD/docs/v2-settings.gif) |
+| `avivgerz-hue__unslop.jpg` | [avivgerz-hue/unslop](https://github.com/avivgerz-hue/unslop) | MIT | [source](https://raw.githubusercontent.com/avivgerz-hue/unslop/main/docs/assets/before-after-unslop.png) |
 | `changemaner__design-taste-frontend.jpg` | [changemaner/design-taste-frontend](https://github.com/changemaner/design-taste-frontend) | MIT | [source](https://raw.githubusercontent.com/changemaner/design-taste-frontend/HEAD/showcase/gallery/air/slide-0.png) |
 | `felipebasurto__unslop-ui.jpg` | [felipebasurto/unslop-ui](https://github.com/felipebasurto/unslop-ui) | MIT | [source](https://raw.githubusercontent.com/felipebasurto/unslop-ui/HEAD/assets/before-after.png) |
 | `forjd__better-writing.gif` | [forjd/better-writing](https://github.com/forjd/better-writing) | MIT | [source](https://raw.githubusercontent.com/forjd/better-writing/HEAD/docs/before-after.gif) |
