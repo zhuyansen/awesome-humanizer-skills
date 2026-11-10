@@ -1,4 +1,14 @@
 {
+ "Dodaios/ste80-humanizer": {
+  "repo": "Dodaios/ste80-humanizer",
+  "url": "https://raw.githubusercontent.com/Dodaios/ste80-humanizer/HEAD/assets/ste100-overview.png",
+  "alt": "Simplified Technical English: overview. Document structure, anatomy of STE sente",
+  "score": -2.65,
+  "type": "image/png",
+  "bytes": 600850,
+  "file": "Dodaios__ste80-humanizer.jpg",
+  "still": "Dodaios__ste80-humanizer.jpg"
+ },
  "Guksu/suta": {
   "repo": "Guksu/suta",
   "url": "https://raw.githubusercontent.com/Guksu/suta/HEAD/docs/assets/as-is-to-be.jpg",
