@@ -39,6 +39,16 @@
   "file": "IT-Shelter-Labs__Shelter-Humanizer.jpg",
   "still": "IT-Shelter-Labs__Shelter-Humanizer.jpg"
  },
+ "LearnPrompt/vibecoding-humanizer": {
+  "repo": "LearnPrompt/vibecoding-humanizer",
+  "url": "https://raw.githubusercontent.com/LearnPrompt/vibecoding-humanizer/HEAD/examples/assets/code-anim-principles-before.jpg",
+  "alt": "",
+  "score": 0.0,
+  "type": "image/jpeg",
+  "bytes": 21811,
+  "file": "LearnPrompt__vibecoding-humanizer.jpg",
+  "still": "LearnPrompt__vibecoding-humanizer.jpg"
+ },
  "alchaincyf/tramstop-skill": {
   "repo": "alchaincyf/tramstop-skill",
   "url": "https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg",
