@@ -59,6 +59,16 @@
   "file": "alchaincyf__tramstop-skill.jpg",
   "still": "alchaincyf__tramstop-skill.jpg"
  },
+ "anhnx000/viet-nhu-nguoi": {
+  "repo": "anhnx000/viet-nhu-nguoi",
+  "url": "https://raw.githubusercontent.com/anhnx000/viet-nhu-nguoi/HEAD/assets/vi-du-slide.png",
+  "alt": "Tiêu đề slide. Bộ AI làm, 48/100: Chuyển đổi số: Hành trình kiến tạo giá trị; Tổ",
+  "score": -0.15,
+  "type": "image/png",
+  "bytes": 145210,
+  "file": "anhnx000__viet-nhu-nguoi.jpg",
+  "still": "anhnx000__viet-nhu-nguoi.jpg"
+ },
  "arhamhi/oxfords": {
   "repo": "arhamhi/oxfords",
   "url": "https://raw.githubusercontent.com/arhamhi/oxfords/HEAD/docs/v2-settings.gif",
