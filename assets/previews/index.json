@@ -119,6 +119,16 @@
   "file": "forjd__better-writing.gif",
   "still": "forjd__better-writing.jpg"
  },
+ "geonwoo-jeong/japanese-humanizer": {
+  "repo": "geonwoo-jeong/japanese-humanizer",
+  "url": "https://raw.githubusercontent.com/geonwoo-jeong/japanese-humanizer/HEAD/assets/social-preview.png",
+  "alt": "japanese-humanizer — スキル未使用とスキル使用の比較",
+  "score": 2.0,
+  "type": "image/png",
+  "bytes": 143023,
+  "file": "geonwoo-jeong__japanese-humanizer.jpg",
+  "still": "geonwoo-jeong__japanese-humanizer.jpg"
+ },
  "heydamir/unslop": {
   "repo": "heydamir/unslop",
   "url": "https://raw.githubusercontent.com/heydamir/unslop/HEAD/skills/unslop/references/refs/story-dashboard-frames.webp",
