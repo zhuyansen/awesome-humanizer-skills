@@ -99,6 +99,16 @@
   "file": "changemaner__design-taste-frontend.jpg",
   "still": "changemaner__design-taste-frontend.jpg"
  },
+ "erkamyaman/unslopovich": {
+  "repo": "erkamyaman/unslopovich",
+  "url": "https://raw.githubusercontent.com/erkamyaman/unslopovich/HEAD/docs/before-after.png",
+  "alt": "Before: a purple gradient dashboard with sparkles, an AI promo, invented stats, ",
+  "score": -2.85,
+  "type": "image/png",
+  "bytes": 812825,
+  "file": "erkamyaman__unslopovich.jpg",
+  "still": "erkamyaman__unslopovich.jpg"
+ },
  "felipebasurto/unslop-ui": {
   "repo": "felipebasurto/unslop-ui",
   "url": "https://raw.githubusercontent.com/felipebasurto/unslop-ui/HEAD/assets/before-after.png",
@@ -218,5 +228,15 @@
   "bytes": 163366,
   "file": "taufiquebuilds__nopurple.jpg",
   "still": "taufiquebuilds__nopurple.jpg"
+ },
+ "weijt606/anti-vibe-writing": {
+  "repo": "weijt606/anti-vibe-writing",
+  "url": "https://raw.githubusercontent.com/weijt606/anti-vibe-writing/HEAD/anti-vibe-writing-before-after.png",
+  "alt": "Before and after: a 73-word AI-drafted launch tweet full of emoji, an em-dash, m",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 152229,
+  "file": "weijt606__anti-vibe-writing.jpg",
+  "still": "weijt606__anti-vibe-writing.jpg"
  }
 }
