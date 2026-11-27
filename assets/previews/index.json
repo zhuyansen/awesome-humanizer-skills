@@ -199,6 +199,16 @@
   "file": "marcosnovo__unslop-design.gif",
   "still": "marcosnovo__unslop-design.jpg"
  },
+ "ormeilu/avoid-ai-writing-russian": {
+  "repo": "ormeilu/avoid-ai-writing-russian",
+  "url": "https://raw.githubusercontent.com/ormeilu/avoid-ai-writing-russian/HEAD/docs/demo.gif",
+  "alt": "Детектор aiw-ru находит 14 примет ИИ-стиля в рекламном абзаце, ставит правке 0/1",
+  "score": 4.55,
+  "type": "image/gif",
+  "bytes": 483167,
+  "file": "ormeilu__avoid-ai-writing-russian.gif",
+  "still": "ormeilu__avoid-ai-writing-russian.jpg"
+ },
  "phuryn/work-humanizer": {
   "repo": "phuryn/work-humanizer",
   "url": "https://raw.githubusercontent.com/phuryn/work-humanizer/HEAD/evidence/charts/example@2x.png",
