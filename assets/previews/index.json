@@ -249,6 +249,16 @@
   "file": "techwithtk__nopurple.jpg",
   "still": "techwithtk__nopurple.jpg"
  },
+ "trina-app/community-humanizer": {
+  "repo": "trina-app/community-humanizer",
+  "url": "https://raw.githubusercontent.com/trina-app/community-humanizer/HEAD/docs/img/quiz-en-light.png",
+  "alt": "Human or AI? Take the quiz",
+  "score": 0.0,
+  "type": "image/png",
+  "bytes": 35379,
+  "file": "trina-app__community-humanizer.jpg",
+  "still": "trina-app__community-humanizer.jpg"
+ },
  "weijt606/anti-vibe-writing": {
   "repo": "weijt606/anti-vibe-writing",
   "url": "https://raw.githubusercontent.com/weijt606/anti-vibe-writing/HEAD/anti-vibe-writing-before-after.png",
